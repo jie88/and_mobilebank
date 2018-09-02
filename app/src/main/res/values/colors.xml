@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- FingerDialog颜色 -->
+    <color name="btn_dialog_negative_normal">#FFFFFF</color>
+    <color name="btn_dialog_negative_pressed">#5FE3E3E3</color>
+    <color name="btn_dialog_positive_normal">#FFFFFF</color>
+    <color name="btn_dialog_positive_pressed">#5FE3E3E3</color>
+    <color name="btn_dialog_text_color">#0869C3</color>
+
+
+</resources>

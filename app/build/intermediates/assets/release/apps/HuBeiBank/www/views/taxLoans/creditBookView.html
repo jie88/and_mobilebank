@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1,maximum-scale=1,user-scalable=no"/>
+		<title>税易贷</title>
+		<link rel="stylesheet" href="../../css/mui.min.css" />
+		<link rel="stylesheet" href="../../css/public.css" />
+		<link rel="stylesheet" href="../../css/style.css" />
+		<link rel="stylesheet" href="../../css/life.css" />
+	</head>
+	<style>
+		body{
+			background-color: white;
+		}
+	</style>
+	<body>
+		<header class="mui-bar mui-bar-nav hb-header">
+			<a class="mui-action-back mui-icon mui-icon-left-nav mui-pull-left hb_back"></a>
+			<h1 class="mui-title hb-title">征信书预览</h1>
+			<a class="nav_qrcode hb-nav"  id="signIn">签约</a>
+		</header>
+		<div class="content_BOXall m-top35 p_down10px hb_cont" >
+			<img src="../../img/creditBook.png" style="width: 100%;margin-top: 20px;"/>
+			<div id="signName" style="display:none; width:50px; margin-left: 75%;; padding:2px,2px,2px,2px; font-size:20px; color:white ;font-family:华文隶书; border-style:solid; background-color:red; border-color:#d60a26">
+				张三<br />
+			</div>
+			<div style="height: 60px;">
+				
+			</div>
+			<div id="btBox" class="btn_bg_f2" style="display: none;">
+				<button class="but_315px but_red" id="next">确认申请</button>
+			</div>
+		</div>
+		
+		<script src="../../js/common/jquery-1.12.0.min.js" type="text/javascript" charset="utf-8"></script>
+		<script src="../../js/common/mui.min.js" type="text/javascript" charset="utf-8"></script> 
+		<script src="../../js/core/support.js" type="text/javascript" charset="utf-8"></script>
+		<script src="../../js/core/utils.js" type="text/javascript" charset="utf-8"></script>
+		<script src="../../js/core/param.js" type="text/javascript" charset="utf-8"></script>
+		<script src="../../js/common/sea.js"></script>
+		<script type="text/javascript">
+			seajs.config({
+				base: "../../js/controllers/"
+			});
+			 
+			seajs.use('taxLoans/creditBookView');  
+			
+		</script>
+	</body>
+</html>

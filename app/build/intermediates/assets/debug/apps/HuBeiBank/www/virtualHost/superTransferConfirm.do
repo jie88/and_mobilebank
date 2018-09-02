@@ -1,0 +1,1 @@
+{"ec":"000","em":"","usAccountNo":"100000000000000000","usAccountName":"李xx","otherBankOpenNode":"313521006000","otherBankOpenNodeName":"湖北银行1","otherAccountName":"白雪","otherAccountNo":"6210000000000000003","protocolId":"000000000000000000000000002","payAmount":"126.88","chineseAmt":"壹佰贰拾陆元捌角捌分","payUse":"测试"}

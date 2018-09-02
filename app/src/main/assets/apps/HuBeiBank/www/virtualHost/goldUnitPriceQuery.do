@@ -1,0 +1,1 @@
+{"ec":"000","em":"处理成功","turnPageTotalNum":"1","goldPriceList":[{"goldUnitPrice":"271.42","date":"20171206"}]}

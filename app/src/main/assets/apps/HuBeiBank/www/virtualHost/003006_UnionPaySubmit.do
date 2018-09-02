@@ -1,0 +1,1 @@
+{"ec":"000","em":"","hostErrorMessage":"","hostReturnCode":"000","areaId":"5200014201","chargeType":"000000010006010","accountNo":"621270002700020250","amountRealCharged":"30","orderFlowNo":"1P1603161000008218","sendTime":"20160316152243","orderState":"90","userNo":"13312341234","custType":"I1","amountShouldBeCharged":"30"}

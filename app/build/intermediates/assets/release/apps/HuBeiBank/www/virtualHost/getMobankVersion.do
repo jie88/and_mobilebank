@@ -1,0 +1,1 @@
+{"ec":"0","em":"","transName":"PBMOBANKVERSION","significance":"2","updateUrl":"http://192.168.7.109:9083mobankDownLoad?path=master.wgt","version":"1.0.0","sequenceNo":"1648677","windowId":"null"}

@@ -1,0 +1,1 @@
+{"ec":"000","em":"","accountNo":"100000000000000000","currencyType":"01","depositType":"020","savingPeriod":"06","amount":"10000.00","transferSaveType":"1","transferSaveDays":"24","interestRate":"3.5","requestToken":"hHBttqqh49CvpzvDNI7vR5HRq3yiCOC1"}

@@ -1,0 +1,129 @@
+<!--
+	作者：suxing
+	时间：2017-06-19
+	描述：账户综合信息查询页面
+-->
+<!doctype html>
+<html>
+
+	<head>
+		<meta charset="UTF-8">
+		<title>账户信息综合查询</title>
+		<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
+		<script src="../../js/mui.min.js"></script>
+		<link rel="stylesheet" href="../../css/mui.min.css">
+		<link rel="stylesheet" href="../../css/public.css" />	
+	</head>
+
+	<body>
+		<header class="mui-bar mui-bar-nav hb-header">
+			<a class="mui-action-back mui-icon mui-icon-left-nav mui-pull-left hb_back"></a>
+			<h1 class="mui-title hb-title">账户信息综合查询</h1>
+		</header>		
+		<div class="main mui-content hb_cont">
+			<div class="content_box5px">
+			<div class="backbox_th p_lr10px m_top10px">
+				    <ul>
+					    <li id="changecardNo">
+					    	<span class="input_lbg">信用卡卡号</span>
+					    	<span class="input_m14px" id="cardNoShow"></span>
+					    	<a class="link_rbg"></a>
+					    	<input type="hidden" name="" id="cardNo" value=""/>
+					    </li>
+					    <li >
+						    <span class="input_lbg">开户分行</span>
+						    <span class="input_m14px" id="ApplBranch"></span>
+						</li>
+						
+						<li id="" >
+						    <span class="input_lbg">信用额度</span>
+						    <span class="input_m14px" id="CreditLimit"></span>
+						</li>
+						<li id="" >
+						    <span class="input_lbg">可用信用额度</span>
+						    <span class="input_m14px" id="AvblLimit"></span>
+						</li>
+						<li id="" >
+						    <span class="input_lbg">取现额度</span>
+						    <span class="input_m14px" id="CashLimit"></span>
+						</li>
+						<li id="" >
+						    <span class="input_lbg">账单日</span>
+						    <span class="input_m14px" id="BillingCycle"></span>
+						</li>
+						<!--<li id="" >
+						    <span class="input_lbg">可用臻信贷额度</span>
+						    <span class="input_m14px" id=""></span>
+						</li>
+						<li id="" >
+						    <span class="input_lbg">可用臻信贷现金额度</span>
+						    <span class="input_m14px" id=""></span>
+						</li>
+						<li id="" >
+						    <span class="input_lbg">臻信贷额度有效期</span>
+						    <span class="input_m14px" id=""></span>
+						</li>-->
+						<li id="" >
+						    <span class="input_lbg">本期应还款日</span>
+						    <span class="input_m14px" id="BillingCycle2"></span>
+						</li>
+						<li id="" >
+						    <span class="input_lbg">本期最低还款额度</span>
+						    <span class="input_m14px" id="MinPayAmt"></span>
+						</li>
+						<!--<li id="" >
+						    <span class="input_lbg">未出账单合计</span>
+						    <span class="input_m14px" id=""></span>
+						</li>
+						<li id="" >
+						    <span class="input_lbg">本期账单是否已结清</span>
+						    <span class="input_m14px" id=""></span>
+						</li>-->
+						<!--<li id="" >
+						    <span class="input_lbg">本期账单剩余还款金额</span>
+						    <span class="input_m14px" id="BillingBal"></span>
+						</li>-->
+						<li id="" >
+						    <span class="input_lbg">到期还款日</span>
+						    <span class="input_m14px" id="DueDate"></span>
+						</li>
+						<!--<li id="" >
+						    <span class="input_lbg">分期余额</span>
+						    <span class="input_m14px" id=""></span>
+						</li>-->
+						<li id="" >
+						    <span class="input_lbg">签约还款账户</span>
+						    <span class="input_m14px" id="RepayAccount"></span>
+						</li>
+				    </ul>
+			</div>
+			</div>
+				
+			<div class="content_box5px p_lr10px box_top15px p_down66px">
+				<p class="hint">操作说明：</p>
+				<p class="hint_con fz_12">您可以查询不同信用卡的综合信息。</p>			
+			</div>
+			
+			
+			
+			
+		</div>
+		
+		<script src="../../js/common/jquery-1.12.0.min.js" type="text/javascript" charset="utf-8"></script>
+		<script src="../../js/core/support.js" type="text/javascript" charset="utf-8"></script>
+		<script src="../../js/core/param.js" type="text/javascript" charset="utf-8"></script>
+		<script src="../../js/core/utils.js" type="text/javascript" charset="utf-8"></script>
+		<script src="../../js/common/Address.js" type="text/javascript" charset="utf-8"></script>
+		<script src="../../js/common/mui.min.js"></script>
+		<script src="../../js/common/keyboard/plugin-keyboard.js"></script>
+		<script src="../../js/common/sea.js"></script>
+		<script src="../../js/common/smart.poppicker.js"></script>
+		<script type="text/javascript">
+			seajs.config({
+				base: "../../js/controllers/"
+			});
+			seajs.use('creditCard/accountCompositeQuery');
+		</script>
+	</body>
+
+</html>

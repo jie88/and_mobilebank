@@ -1,0 +1,1 @@
+{"ec":"000","em":"","accountNo":"6283400000000007","certType":"0","certNo":"111111190001010000","customerName":"测试用户","orderFlowNo":null}

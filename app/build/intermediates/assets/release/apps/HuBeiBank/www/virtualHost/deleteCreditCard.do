@@ -1,0 +1,1 @@
+{"ec":"000","em":"","accountNo":"6283400000000001","customerName":"测试用户","accountOpenNodeName":"null","accountStat":"0"}

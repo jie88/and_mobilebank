@@ -1,0 +1,1 @@
+{"ec":"000","em":"","accPayTotal":"25.51","accPayMin":"10.21"}

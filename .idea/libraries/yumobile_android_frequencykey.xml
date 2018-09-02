@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="yumobile-android-frequencykey">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/yumobile-android-frequencykey.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

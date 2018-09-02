@@ -1,0 +1,1 @@
+{"ec":"000","em":"","accountNo":"100000000000000000","subAccountNo":"180100101900000139","currencyType":"01","openDate":"20130708","drawAmount":"69244.78","drawType":"2","balance":"69244.78","savingPeriod":"1","paySubAccountSerlNo":"696010126204397710","drawFlag":"0","subAccountSerNo":"29","reserveDate":"20130711","requestToken":"QB9Eez9Ne56nx5pxHA9KyPo0vEdja57s"}

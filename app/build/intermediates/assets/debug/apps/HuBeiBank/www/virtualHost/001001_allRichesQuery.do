@@ -1,0 +1,1 @@
+{"ec":"000","em":"查询客户贷款信息成功","loanAmount":"53801.83","freeAmount":"1147.07","freezenAmount":"30393.510000000003","noticeAmount":"0.0","totalAmount":"31540.58"}

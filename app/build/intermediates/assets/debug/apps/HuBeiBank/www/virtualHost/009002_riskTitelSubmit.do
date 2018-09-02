@@ -1,0 +1,1 @@
+{"ec":"000","em":"交易成功!","finanAccount":"","proTransferDate":"20170128","cusriskLevel":"05","riskendDate":"20180128","riskResultDes":"风险极小","appSno":null,"lastScore":"10","cstName":"测试用户"}

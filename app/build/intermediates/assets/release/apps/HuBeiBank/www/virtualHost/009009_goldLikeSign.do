@@ -1,0 +1,1 @@
+{"ec":"000","em":"","feeamt":"0","telephone":"02012345678","custType":"0","postCode":"440000","mailBox":"1111@163.com","managerNo":"11111","goldCode":"null","mobileNo":"12312341234","accountNo":"100000000000000000","payAccount":null,"orderState":"90","usAccountNo":"621000000000000000"}

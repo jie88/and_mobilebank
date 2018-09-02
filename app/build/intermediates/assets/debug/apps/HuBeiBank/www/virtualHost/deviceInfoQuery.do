@@ -1,0 +1,1 @@
+{"ec":"E030","em":"交易成功","deviceType":"E6553","boundTime":"2016-12-21 19:25:30","mpOS":"Android 6.0.1","boundState":"1"}

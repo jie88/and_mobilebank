@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\libs\geolocation-baidu.jar"
+        jumboMode="true"
+        revision="28.0.1"
+        sha1="97b3bb7e4e58fe57c291a7140b763eccded75ddb">
+        <dex dex="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\geolocation-baidu_2dbd71548b39494b56cf015d82726fec2e38e4a5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\libs\encryptlib.jar"
+        jumboMode="true"
+        revision="28.0.1"
+        sha1="9bb4bce9c70ede20e1e8994928ed8c0a19c758d3">
+        <dex dex="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\encryptlib_845c70d43a1ea61765322c8c7e29465a79ac8adf\classes.dex" />
+    </item>
+    <item
+        jar="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\libs\GetuiSDK2.7.0.0.jar"
+        jumboMode="true"
+        revision="28.0.1"
+        sha1="de9bd9eedb38574a7741b18e34fc9e1f1ca0bc7b">
+        <dex dex="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\GetuiSDK2.7.0.0_c3660d06a3fb3d1324745bcf443dc05040611caf\classes.dex" />
+    </item>
+    <item
+        jar="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\libs\file.jar"
+        jumboMode="true"
+        revision="28.0.1"
+        sha1="9b3c1dab2a310d395702de7303189b0e88ce9d24">
+        <dex dex="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\file_87bae03fc8898e874a0322ca9e3c3cbbc2942ef4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\libs\payment-alipay.jar"
+        jumboMode="true"
+        revision="28.0.1"
+        sha1="0422f87f62cae65a07a22d0b6a7a2a3b7bc4dda0">
+        <dex dex="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\payment-alipay_bb3009aafd157418255e0d597d10348d85febec9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\libs\share-weixin.jar"
+        jumboMode="true"
+        revision="28.0.1"
+        sha1="2a0733e1a5936956916d023432a8d9a38e23f8a1">
+        <dex dex="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\share-weixin_83ca7b9032d57ebd47a96081596ef03f171661c5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\libs\oauth-sina.jar"
+        jumboMode="true"
+        revision="28.0.1"
+        sha1="93f8d0fb517bce5b509b8d1c4829a6ad70fbad7d">
+        <dex dex="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\oauth-sina_f02975a5b67a08a84c3b7b2cfa2dccaf67edc24c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\libs\pgx.jar"
+        jumboMode="true"
+        revision="28.0.1"
+        sha1="269d6686ac8b61461a99f57cef51847a0fc06616">
+        <dex dex="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\pgx_cb9b01abb20fe5f890c1b33df5486bef29e9417b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\libs\barcode.jar"
+        jumboMode="true"
+        revision="28.0.1"
+        sha1="20096810c200949e62d040474639faad0f787ffe">
+        <dex dex="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\barcode_34c9e4d005b1eac7fd056bdd6a691c43f0971e72\classes.dex" />
+    </item>
+    <item
+        jar="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\libs\pdr.jar"
+        jumboMode="true"
+        revision="28.0.1"
+        sha1="632313ca3d3b513d348197223e12b9db50c629ce">
+        <dex dex="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\pdr_0ee88cbf1be3b2da21ce066c8469b32ccc1a459f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\libs\Msc.jar"
+        jumboMode="true"
+        revision="28.0.1"
+        sha1="a11eb2b2631d3538589d79e5d85e10d4dc216480">
+        <dex dex="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\Msc_471a78eab26652e4bd299f21a126f89c79632b0a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\libs\jg_filter_sdk_1.1.jar"
+        jumboMode="true"
+        revision="28.0.1"
+        sha1="ebfc3cde0309ff27e9568757784eefefc71407a2">
+        <dex dex="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\jg_filter_sdk_1.1_1b14193e7aad2aa61a2bc21e3443d78321b359a9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\libs\aps.jar"
+        jumboMode="true"
+        revision="28.0.1"
+        sha1="93d1ae7b846b06f54dc79907a6fff12e76001b51">
+        <dex dex="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\aps_eef73958aec81af259dd18a52f3c4586385490cd\classes.dex" />
+    </item>
+    <item
+        jar="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\libs\audio.jar"
+        jumboMode="true"
+        revision="28.0.1"
+        sha1="c9d2fcf4faf9cbb994dc6c13af9bad8cafda348f">
+        <dex dex="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\audio_ddaca366c6d144f6b62a8d6aedf9c3e6064a314f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\libs\json_simple-1.1.jar"
+        jumboMode="true"
+        revision="28.0.1"
+        sha1="5e303a03d04e6788dddfa3655272580ae0fc13bb">
+        <dex dex="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\json_simple-1.1_940d9e756d76e37419e1e0fd21964d5919fadc2d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\libs\share-sina.jar"
+        jumboMode="true"
+        revision="28.0.1"
+        sha1="e1c0292f8b5b36104b53c05e41f0c35b08b8192f">
+        <dex dex="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\share-sina_3b6f4e7f71624dfcc3de9c811449db3571b25645\classes.dex" />
+    </item>
+    <item
+        jar="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\libs\nativeObj.jar"
+        jumboMode="true"
+        revision="28.0.1"
+        sha1="92457aaf015fd750e03c9018191bcf93ca6ad194">
+        <dex dex="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\nativeObj_1cb5ed919b9b89c8cea79808b30e3184160b69d4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\libs\camera.jar"
+        jumboMode="true"
+        revision="28.0.1"
+        sha1="317956f18d7c49a567f501a35f129ac1c9666aaa">
+        <dex dex="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\camera_76744b5ebc10df4fbc872b928d0cf988bc52c60c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\libs\alipayutdid.jar"
+        jumboMode="true"
+        revision="28.0.1"
+        sha1="4345fa0a5a7768f2f9c86aaab7db9e2906765193">
+        <dex dex="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\alipayutdid_0e46dc609437444c20e017901c6c9f6d4d683873\classes.dex" />
+    </item>
+    <item
+        jar="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\libs\contacts.jar"
+        jumboMode="true"
+        revision="28.0.1"
+        sha1="afdea4491c218a1ee12f0a2935db180ce89b06d9">
+        <dex dex="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\contacts_63ade0f342db448296733239bbe3cefebef50a36\classes.dex" />
+    </item>
+    <item
+        jar="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\libs\nopermission.jar"
+        jumboMode="true"
+        revision="28.0.1"
+        sha1="b20f63e1365356b73a8900d1859b5a8fa6a2ee41">
+        <dex dex="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\nopermission_584f9284ce2d8ded6081a07f4e52cdf9c650456e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="28.0.1"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\internal_impl-23.3.0_9120d5e9014d5635a8dee2d4257f53178d1b375f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="28.0.1"
+        sha1="ba04f1d34932dfe921f3490d507024de2a07eb2c">
+        <dex dex="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_11f2df5b008966ae430b9a138680f02d58321fa9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\libs\Xg_sdk_v2.42_20160111_1539.jar"
+        jumboMode="true"
+        revision="28.0.1"
+        sha1="4735ec4caebc2db6cc5069a21f3c00e9e043f5f6">
+        <dex dex="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\Xg_sdk_v2.42_20160111_1539_bb37b32fd17cf708406c4de29efcc461c6bee9bd\classes.dex" />
+    </item>
+    <item
+        jar="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="28.0.1"
+        sha1="abbb49610e9bad882ec8f0192341e638ca8ce636">
+        <dex dex="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_32702bc15c820c1a7ced5e85fe78601b00d73578\classes.dex" />
+    </item>
+    <item
+        jar="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\libs\share.jar"
+        jumboMode="true"
+        revision="28.0.1"
+        sha1="fe6779c1fdaf421aed769f570f8eb479853fb8af">
+        <dex dex="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\share_4342d8b70678ba06d4c9d8686a89867ee3b7ee9a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\libs\yumobile-android-fingerprint.jar"
+        jumboMode="true"
+        revision="28.0.1"
+        sha1="1ed75b397448bb9d4f1ffb5538d9c7cb8c845f1b">
+        <dex dex="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\yumobile-android-fingerprint_e1c1f69b9f229c1b496c947507ce091f108306c8\classes.dex" />
+    </item>
+    <item
+        jar="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\libs\uploader.jar"
+        jumboMode="true"
+        revision="28.0.1"
+        sha1="9826ee4c8ced3c667fb9f68e28a81e3eb714d6a3">
+        <dex dex="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\uploader_c3bad2eb022c600545d3899223c8c23aa2f9774e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\libs\xhr.jar"
+        jumboMode="true"
+        revision="28.0.1"
+        sha1="ddfe75f7a726d0252f1ef314fbde5d8596468ebd">
+        <dex dex="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\xhr_a7bbccacba7b61f068859b18e88b247cc72e7273\classes.dex" />
+    </item>
+    <item
+        jar="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\libs\tx_weibo_sdk_component.jar"
+        jumboMode="true"
+        revision="28.0.1"
+        sha1="17d672bf657b4d848d1b33782496fc0dd972072c">
+        <dex dex="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\tx_weibo_sdk_component_c648e607154e0d97cde132c535320e279ac98f48\classes.dex" />
+    </item>
+    <item
+        jar="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\libs\messaging.jar"
+        jumboMode="true"
+        revision="28.0.1"
+        sha1="9ace24dd5076b02a7bdce8c1dc9b5d262d53979b">
+        <dex dex="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\messaging_d735dd305e7ada4b9667f798abfcffee5446c643\classes.dex" />
+    </item>
+    <item
+        jar="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\libs\speech.jar"
+        jumboMode="true"
+        revision="28.0.1"
+        sha1="be10d9c357d83d9bf8281a7cb4788087b3102c44">
+        <dex dex="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\speech_1522d23ec6dccd7019c6454084b361188ded0124\classes.dex" />
+    </item>
+    <item
+        jar="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\libs\umeng-analytics-v5.6.1.jar"
+        jumboMode="true"
+        revision="28.0.1"
+        sha1="b2705cbb19f52bb4d242458163a98d9e889c1292">
+        <dex dex="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\umeng-analytics-v5.6.1_78ed52b21701903f05dae8a17d2a791f146a8d25\classes.dex" />
+    </item>
+    <item
+        jar="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="28.0.1"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_8d58359842dadcdcb28307ea96632baa6ca92eac\classes.dex" />
+    </item>
+    <item
+        jar="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\libs\weibosdk.jar"
+        jumboMode="true"
+        revision="28.0.1"
+        sha1="a72897dea0c643c263fe8f90ea2d2c414f21ad8b">
+        <dex dex="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\weibosdk_0614f63abd88e3347a5e1bb8d2efb7f31cc96e7f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\libs\alipaysecsdk.jar"
+        jumboMode="true"
+        revision="28.0.1"
+        sha1="7413c074c9edf523050267b93d0875151dc4b644">
+        <dex dex="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\alipaysecsdk_97991decf23e6c6a35597ec59bba2e17fa03dc77\classes.dex" />
+    </item>
+    <item
+        jar="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\libs\oauth-weixin.jar"
+        jumboMode="true"
+        revision="28.0.1"
+        sha1="92842d70b4f08b69ba1efa2dd37958c63d36dacb">
+        <dex dex="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\oauth-weixin_70f251f824fd7ad8ca1efe751a6ced3fb2449820\classes.dex" />
+    </item>
+    <item
+        jar="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\libs\yumobile-android-common.jar"
+        jumboMode="true"
+        revision="28.0.1"
+        sha1="b068e51bd4f7458e460d652e68e9123a9f690670">
+        <dex dex="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\yumobile-android-common_4a5cab9bcdaf91b1507e97cacb6846c90406e447\classes.dex" />
+    </item>
+    <item
+        jar="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\libs\map-baidu.jar"
+        jumboMode="true"
+        revision="28.0.1"
+        sha1="cde44f954ee430bec26799ae372af1b6910756ec">
+        <dex dex="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\map-baidu_c6f1177abd2bb1116001c04e4fe2a466edf1b36a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\libs\downloader.jar"
+        jumboMode="true"
+        revision="28.0.1"
+        sha1="0be33bb85e89ebffa3a9604d2ca9bbf007d64cef">
+        <dex dex="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\downloader_17ccf1629125ebdb047a2e0074582e6fa6b7c0f9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\libs\jpush-android-2.0.5.jar"
+        jumboMode="true"
+        revision="28.0.1"
+        sha1="f2c821a0d13219a2e70490085c390bab03fb5953">
+        <dex dex="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\jpush-android-2.0.5_7bfd1bb4d155637d39e2971b63d8baa0a030cde7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\libs\universal-image-loader-1.9.0.jar"
+        jumboMode="true"
+        revision="28.0.1"
+        sha1="f667a2f4f27542fe11a6781f5f7ac572d27afcec">
+        <dex dex="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\universal-image-loader-1.9.0_f6b6f339d255a32d36b78ea9599093d34f5dd33a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\libs\hubeibank.jar"
+        jumboMode="true"
+        revision="28.0.1"
+        sha1="f46e8e547e0c4ab52d9b26d430ba001792020228">
+        <dex dex="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\hubeibank_4c4dcd5e3be001aa3a41b3307cb6dce21b27fb39\classes.dex" />
+    </item>
+    <item
+        jar="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\libs\gallery.jar"
+        jumboMode="true"
+        revision="28.0.1"
+        sha1="eeb0d7daea0de0a1bbe14a95ae21e3b1df795553">
+        <dex dex="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\gallery_a7ad06515f960f65b0e44d62843b42af2ba0c305\classes.dex" />
+    </item>
+    <item
+        jar="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\libs\geolocation-system.jar"
+        jumboMode="true"
+        revision="28.0.1"
+        sha1="552b8048feb7dce967ae45db26c476d2929541b3">
+        <dex dex="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\geolocation-system_a4bf4392de553e3888524faac24d197baf9bc616\classes.dex" />
+    </item>
+    <item
+        jar="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\libs\bcprov-jdk16-145.jar"
+        jumboMode="true"
+        revision="28.0.1"
+        sha1="0612d4afcd33f05a5ffdd9cf835e3bd4e3b44018">
+        <dex dex="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\bcprov-jdk16-145_0eb98eb7db88318f0b0731cc72b8447d786a6abb\classes.dex" />
+    </item>
+    <item
+        jar="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\libs\aps-igexin.jar"
+        jumboMode="true"
+        revision="28.0.1"
+        sha1="b71fc8eb0ad81abfe0044b99d43be43d560291fb">
+        <dex dex="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\aps-igexin_8de29a1263d565e0124ce9b3661593caa732ef48\classes.dex" />
+    </item>
+    <item
+        jar="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\libs\yumobile-hubiebank-passguard.jar"
+        jumboMode="true"
+        revision="28.0.1"
+        sha1="72e18963911ceb4268431d82fb404d48664a17be">
+        <dex dex="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\yumobile-hubiebank-passguard_d511e75bb4f348090635d5f7a9ee9d9818d962c7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\libs\speech_ifly.jar"
+        jumboMode="true"
+        revision="28.0.1"
+        sha1="9a637f07127fde29b80bab85665057a8a0cb5736">
+        <dex dex="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\speech_ifly_453808f28856e2d8b846b17b1ad6374683d3181e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\libs\open_sdk_r5043_lite.jar"
+        jumboMode="true"
+        revision="28.0.1"
+        sha1="1f213f03dfe8868d0b24898234f6eefb67015a4a">
+        <dex dex="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\open_sdk_r5043_lite_c75ff179caee4099362762732daa6b7683546c81\classes.dex" />
+    </item>
+    <item
+        jar="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\libs\alipaysdk.jar"
+        jumboMode="true"
+        revision="28.0.1"
+        sha1="b40481f01537a329936ce54ee2fe15ef2537f010">
+        <dex dex="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\alipaysdk_469bb3ac5e5021421de9e4c103bcb434f7316eaf\classes.dex" />
+    </item>
+    <item
+        jar="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\libs\ftLoader.jar"
+        jumboMode="true"
+        revision="28.0.1"
+        sha1="38207838a08e987c6834f49f9ca918d5d281db3a">
+        <dex dex="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\ftLoader_6e4d29d5bc74db384eb42b7533a26b549143f389\classes.dex" />
+    </item>
+    <item
+        jar="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\libs\statistics-umeng.jar"
+        jumboMode="true"
+        revision="28.0.1"
+        sha1="127d8a87c68bcc6b875e76fa419b54c0c06b8e63">
+        <dex dex="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\statistics-umeng_47e377b944f1e01f3de3006c32c00e9fd9e96fe5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\libs\share-qq.jar"
+        jumboMode="true"
+        revision="28.0.1"
+        sha1="01a807eea6c90d4794776402164b837cae223502">
+        <dex dex="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\share-qq_9b69ceb0830728003678def6360474ebd458df93\classes.dex" />
+    </item>
+    <item
+        jar="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\libs\tx_weibo_sdk.jar"
+        jumboMode="true"
+        revision="28.0.1"
+        sha1="33921321a220f3927929217aeed32befede21502">
+        <dex dex="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\tx_weibo_sdk_46bf9ab5f5614a5b3be3a415f2653f089facb792\classes.dex" />
+    </item>
+    <item
+        jar="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\libs\weibosdkcore.jar"
+        jumboMode="true"
+        revision="28.0.1"
+        sha1="94471fb40a1a2175b5993cdf0af0b8e59ed29fb3">
+        <dex dex="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\weibosdkcore_d88c532f83f54fbd463d004687b96e3ab699d1a1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\libs\payment-weixin.jar"
+        jumboMode="true"
+        revision="28.0.1"
+        sha1="2fd3aab8b354e318b5f8226f4430c9a7e2c1c932">
+        <dex dex="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\payment-weixin_e17ceb185f28f07652433f2b0c0066ee9dde603e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\libs\oauth.jar"
+        jumboMode="true"
+        revision="28.0.1"
+        sha1="14b55e181ccee7bc44f1a08f2e6e359522f2d782">
+        <dex dex="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\oauth_b49024b34513a8060ae89f7e9124516c1dc594ff\classes.dex" />
+    </item>
+    <item
+        jar="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\libs\geolocation.jar"
+        jumboMode="true"
+        revision="28.0.1"
+        sha1="aad14427de14966975766cf9a6c65d4e1537efc5">
+        <dex dex="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\geolocation_98edbf08514b7b4e3fe1e3c307cae783b3cc062a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\libs\ui.jar"
+        jumboMode="true"
+        revision="28.0.1"
+        sha1="30b2131360e8a696aef7306e7931de133bf71a9c">
+        <dex dex="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\ui_4ac3d440cd64746530bbece901d6170a5c8baf09\classes.dex" />
+    </item>
+    <item
+        jar="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\libs\tx_weibo_sdk-httpclient-3.0.1.jar"
+        jumboMode="true"
+        revision="28.0.1"
+        sha1="d6364bcc1b2b2aa69d008602d36a700453648560">
+        <dex dex="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\tx_weibo_sdk-httpclient-3.0.1_01e6425737d083609810506f557d8ab0dea203e2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\libs\payment.jar"
+        jumboMode="true"
+        revision="28.0.1"
+        sha1="e940bbd4f18cfa93363250cf0fe986eb1aa1d766">
+        <dex dex="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\payment_671dd4711479bb501fa5b834a3d4a43780c1c6ec\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\chenchangming\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.5\686c608d1805b6d4d425ec4459e88164ffc85870\gson-2.5.jar"
+        jumboMode="true"
+        revision="28.0.1"
+        sha1="686c608d1805b6d4d425ec4459e88164ffc85870">
+        <dex dex="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.5_6fdda972f028f1cef4ca8db0bfab15a49252053e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\libs\yumobile-android-h5plugins.jar"
+        jumboMode="true"
+        revision="28.0.1"
+        sha1="714be9dbb8a27b8af941d3812bc55848a4e0b686">
+        <dex dex="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\yumobile-android-h5plugins_cc15f222d5d90a98b50f46789d25e0f57398e4b5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\libs\commons-codec-1.6.jar"
+        jumboMode="true"
+        revision="28.0.1"
+        sha1="b7f0fc8f61ecadeb3695f0b9464755eee44374d4">
+        <dex dex="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\commons-codec-1.6_bc93800615beb2f4d9938a19eb23baf1d262c8e3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\libs\BaiduLBS_Android.jar"
+        jumboMode="true"
+        revision="28.0.1"
+        sha1="9cc5fb6c6a98c9ba56e774cb20fa9b48bc6f75f3">
+        <dex dex="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\BaiduLBS_Android_f9a71a4bddb20658cbd303c2e4acc03c6ee3a306\classes.dex" />
+    </item>
+    <item
+        jar="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\libs\ftKeyInterface.jar"
+        jumboMode="true"
+        revision="28.0.1"
+        sha1="ee239196ef14cf0617dbd1408ed19d42b917f7d0">
+        <dex dex="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\ftKeyInterface_a0ada4ecf856b3e58098433a4432aad1346d6603\classes.dex" />
+    </item>
+    <item
+        jar="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\libs\sensor.jar"
+        jumboMode="true"
+        revision="28.0.1"
+        sha1="697de40c29e8031e2eef0177f723fb9b92c86449">
+        <dex dex="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\sensor_3a327fd57301a46522fdbb883f507610b702596b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\libs\oauth-qq.jar"
+        jumboMode="true"
+        revision="28.0.1"
+        sha1="1eded621bd4acb2b980d09e72d4f54babcd4f9cf">
+        <dex dex="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\oauth-qq_b7e3730e0b89c637d78f1093f1e4b1b471df39a0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\libs\device.jar"
+        jumboMode="true"
+        revision="28.0.1"
+        sha1="6d81f91dc5efe8c36a75e7b52fddce1ed38c63d3">
+        <dex dex="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\device_8940013d8abbc6cbc555b698e799b6a88e9226aa\classes.dex" />
+    </item>
+    <item
+        jar="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\libs\share-tencent.jar"
+        jumboMode="true"
+        revision="28.0.1"
+        sha1="d1cd9032ae58127e2b91333be1c9a9d3df0b1323">
+        <dex dex="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\share-tencent_f2144ca148cd87f4fef2df1ee58b04a22911020f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\libs\GetuiExt-2.0.3.jar"
+        jumboMode="true"
+        revision="28.0.1"
+        sha1="7825bfa9135d693e2046eab96fd94e724e0f9eda">
+        <dex dex="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\GetuiExt-2.0.3_33ab7f4529d6e39743c0b7d75b5d44752e52937e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\libs\invocation.jar"
+        jumboMode="true"
+        revision="28.0.1"
+        sha1="76cb0cf011e1befe2063589a774c4f6cec13b336">
+        <dex dex="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\invocation_6ae2a4acff32f2bafe41060cbe5c5a89f41860c2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\libs\navigatorui.jar"
+        jumboMode="true"
+        revision="28.0.1"
+        sha1="40ad649a30d7df22563a3359d1467ef7cb135c8b">
+        <dex dex="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\navigatorui_2f08c38a7e335e879f20b9670932de1917f81ddd\classes.dex" />
+    </item>
+    <item
+        jar="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\libs\tx_wx.jar"
+        jumboMode="true"
+        revision="28.0.1"
+        sha1="d7c2f29c05b35e8c8713be2b81c41cf18f98b64a">
+        <dex dex="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\tx_wx_23f281c0cff9352b112ee58d9ffa96f21f86f314\classes.dex" />
+    </item>
+    <item
+        jar="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\libs\passguard.jar"
+        jumboMode="true"
+        revision="28.0.1"
+        sha1="cfbdcff3319a69f1cc8e243ab9197e9f1f57bfac">
+        <dex dex="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\passguard_9fa82c1651012a1ffdaca0b0ce0e800be164fcca\classes.dex" />
+    </item>
+    <item
+        jar="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\libs\yumobile-android-frequencykey.jar"
+        jumboMode="true"
+        revision="28.0.1"
+        sha1="ff820c1c0cc2d673cb7c5192e9f99295c93ca8de">
+        <dex dex="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\yumobile-android-frequencykey_919b616bc8de7d6e0d30af3cf5815ebd0c9eb41e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\libs\nineoldandroids-2.4.0.jar"
+        jumboMode="true"
+        revision="28.0.1"
+        sha1="a43cf9e271b5bc564e880a0a4be63ab9c69c97f8">
+        <dex dex="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\nineoldandroids-2.4.0_5234a9451fdd2d1dd33ea8af8a54e3d71f38596f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\libs\android-support-v4-23.3.0.jar"
+        jumboMode="true"
+        revision="28.0.1"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\android-support-v4-23.3.0_e3d6187fd9d676e8e2d3719be9309330088a0cdd\classes.dex" />
+    </item>
+    <item
+        jar="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\libs\yumobile-hubiebank-log.jar"
+        jumboMode="true"
+        revision="28.0.1"
+        sha1="23631dded5f2ba66d0d672b0aeceeabeec3cbea4">
+        <dex dex="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\yumobile-hubiebank-log_f0b1412e78ec83875e60783cdf39083f47c51fc5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\libs\nativeui.jar"
+        jumboMode="true"
+        revision="28.0.1"
+        sha1="e39d63aabc687756ab020d9ddcb47baf82940a11">
+        <dex dex="C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\nativeui_e292163212eb4dca3924fbd42887e00c88f83cc2\classes.dex" />
+    </item>
+
+</items>

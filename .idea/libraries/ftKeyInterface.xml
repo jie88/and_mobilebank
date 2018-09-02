@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ftKeyInterface">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/ftKeyInterface.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

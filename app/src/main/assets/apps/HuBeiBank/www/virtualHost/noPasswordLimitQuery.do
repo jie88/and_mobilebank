@@ -1,0 +1,1 @@
+{"ec":"000","em":"","turnPageTotalNum":"2","cardnoPsdSetList":[{"cardNo":"6283400000000001","contract_flag":"N"},{"cardNo":"6283400000000002","contract_flag":"Y"},{"cardNo":"6283400000000003","contract_flag":"N"}]}

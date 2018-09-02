@@ -1,0 +1,1 @@
+{"ec":"000","em":"","CashAvbLimit":"10000.00","AvblLimit":"20000.00","CreditLimit":"20000.00","CashLimit":"10000.00","mobileTemp":"12345678902"}

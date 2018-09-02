@@ -1,0 +1,1 @@
+{"ec":"000","em":"查询提前还款记录信息成功","turnPageTotalNum":"1","personalLoanBackNowList":[{"realityBackAmount":"100191.04","realityBackPrincipal":"100000","realityBackInterest":"191.04","realityBackFine":"0","realityBackFuLi":"0","closeDate":"2013/02/04"}]}

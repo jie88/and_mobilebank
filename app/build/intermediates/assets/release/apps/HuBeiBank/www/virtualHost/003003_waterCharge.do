@@ -1,0 +1,1 @@
+{"ec":"000","em":"交易成功","userName":"市纺织经销公司南园酒家","chargeNo":"0003413","chargeType":"000000010008010","orderFlowNo":"1P13071120004361","accountNo":"100000000000000000","areaId":"02","orderState":"90","amountRealCharged":"20.00","amountShouldBeCharged":"5.03","orderSubmitTime":"20130711161434","requestToken":"ksqJ82deefzumHRFffp3GIecHhEf4INQ"}

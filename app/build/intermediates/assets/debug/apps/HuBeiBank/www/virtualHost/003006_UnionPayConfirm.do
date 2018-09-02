@@ -1,0 +1,1 @@
+{"ec":"000","em":"","areaId":"5200014201","chargeType":"000000010006010","accountNo":"100000000000000000","amountRealCharged":"30","custType":"I1","summaryNo":null,"userNo":"13312341234","amountShouldBeCharged":"30"}

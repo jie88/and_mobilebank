@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
+		<title>定活互转</title>
+		<link href="../../css/mui.min.css" rel="stylesheet" />	
+		<link href="../../css/public.css" rel="stylesheet" />
+		<link href="../../css/style.css" rel="stylesheet" />
+		<style>
+			mui-scroll-wrapper {
+				position: absolute;
+				z-index: 2;
+				top: 0;
+				bottom: 0;
+				left: 0;
+				width: 100%
+			}
+	        .mui-scroll{
+	        	position: relative;
+	        }
+		</style>
+	</head>
+	
+	<body> 
+		<div class="bg_screen content_box5px">
+		    <div class="backbox_th p_lr10px">
+				<ul>
+					<li class="b_das" id="changeAccount">
+					    <span class="input_lbg">请选择账号</span>
+					    <span class="input_m14px" id="accountNo"></span>
+					    <a class="link_rbg_red_d"></a>
+					</li>
+				</ul>
+		    </div>
+		</div>
+		<div id="pullrefresh" class="mui-scroll-wrapper p_down140px">
+			<div class="mui-scroll">		
+		    	<div class="m_top70px">
+					<div class="content_box5px m_top10px">
+				    	<div  id="queryList">
+				    	</div>
+					</div>
+           		</div>
+  			</div>
+		</div>
+		
+		<div class="content_BOXall" id="noContent" style="display: none;">
+			<div class="fail_icon1 suc_top7px"></div>
+			<p class="fz_15 text_m" id="msgSpan">没有符合条件的记录</p>
+		</div>
+    
+        <div class="btn_bg_f2" id="largeDeposit">
+			<button class="but_315px but_w"><img class="btn_ico" src="../../img/btn_ico1.png" />购买大额存单</button>
+		</div>
+		
+		<script type="text/javascript" src="../../js/common/jquery-1.12.0.min.js"></script>
+		<script type="text/javascript" src="../../js/common/mui.min.js"></script>
+        <script type="text/javascript" src="../../js/common/smart.poppicker.js"></script>
+		<script type="text/javascript" src="../../js/common/sea.js"></script>
+		<script type="text/javascript" src="../../js/core/param.js"></script>
+		<script>
+			seajs.config({
+				base: "../../js/controllers/"
+			});
+			seajs.use('savings/largeDepositHome');
+		</script>
+	</body>
+</html>

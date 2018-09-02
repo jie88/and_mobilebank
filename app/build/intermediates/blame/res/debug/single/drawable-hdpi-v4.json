@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "C:\\Workspace\\backUp\\myProject\\workspace\\mobileBank\\HuBeiBankAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\stream.png",
+        "source": "C:\\Workspace\\backUp\\myProject\\workspace\\mobileBank\\HuBeiBankAS\\app\\src\\main\\res\\drawable-hdpi\\stream.png"
+    },
+    {
+        "merged": "C:\\Workspace\\backUp\\myProject\\workspace\\mobileBank\\HuBeiBankAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loading.gif",
+        "source": "C:\\Workspace\\backUp\\myProject\\workspace\\mobileBank\\HuBeiBankAS\\app\\src\\main\\res\\drawable-hdpi\\loading.gif"
+    },
+    {
+        "merged": "C:\\Workspace\\backUp\\myProject\\workspace\\mobileBank\\HuBeiBankAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\stream_running_progress.xml",
+        "source": "C:\\Workspace\\backUp\\myProject\\workspace\\mobileBank\\HuBeiBankAS\\app\\src\\main\\res\\drawable-hdpi\\stream_running_progress.xml"
+    },
+    {
+        "merged": "C:\\Workspace\\backUp\\myProject\\workspace\\mobileBank\\HuBeiBankAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\snow_black_progress.xml",
+        "source": "C:\\Workspace\\backUp\\myProject\\workspace\\mobileBank\\HuBeiBankAS\\app\\src\\main\\res\\drawable-hdpi\\snow_black_progress.xml"
+    },
+    {
+        "merged": "C:\\Workspace\\backUp\\myProject\\workspace\\mobileBank\\HuBeiBankAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon.png",
+        "source": "C:\\Workspace\\backUp\\myProject\\workspace\\mobileBank\\HuBeiBankAS\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Workspace\\backUp\\myProject\\workspace\\mobileBank\\HuBeiBankAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\snow_white.png",
+        "source": "C:\\Workspace\\backUp\\myProject\\workspace\\mobileBank\\HuBeiBankAS\\app\\src\\main\\res\\drawable-hdpi\\snow_white.png"
+    },
+    {
+        "merged": "C:\\Workspace\\backUp\\myProject\\workspace\\mobileBank\\HuBeiBankAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dcloud_snow_white_progress.xml",
+        "source": "C:\\Workspace\\backUp\\myProject\\workspace\\mobileBank\\HuBeiBankAS\\app\\src\\main\\res\\drawable-hdpi\\dcloud_snow_white_progress.xml"
+    },
+    {
+        "merged": "C:\\Workspace\\backUp\\myProject\\workspace\\mobileBank\\HuBeiBankAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\snow_black.png",
+        "source": "C:\\Workspace\\backUp\\myProject\\workspace\\mobileBank\\HuBeiBankAS\\app\\src\\main\\res\\drawable-hdpi\\snow_black.png"
+    },
+    {
+        "merged": "C:\\Workspace\\backUp\\myProject\\workspace\\mobileBank\\HuBeiBankAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\stream_running.png",
+        "source": "C:\\Workspace\\backUp\\myProject\\workspace\\mobileBank\\HuBeiBankAS\\app\\src\\main\\res\\drawable-hdpi\\stream_running.png"
+    },
+    {
+        "merged": "C:\\Workspace\\backUp\\myProject\\workspace\\mobileBank\\HuBeiBankAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\snow_white_progress.xml",
+        "source": "C:\\Workspace\\backUp\\myProject\\workspace\\mobileBank\\HuBeiBankAS\\app\\src\\main\\res\\drawable-hdpi\\snow_white_progress.xml"
+    },
+    {
+        "merged": "C:\\Workspace\\backUp\\myProject\\workspace\\mobileBank\\HuBeiBankAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dcloud_snow_black_progress.xml",
+        "source": "C:\\Workspace\\backUp\\myProject\\workspace\\mobileBank\\HuBeiBankAS\\app\\src\\main\\res\\drawable-hdpi\\dcloud_snow_black_progress.xml"
+    },
+    {
+        "merged": "C:\\Workspace\\backUp\\myProject\\workspace\\mobileBank\\HuBeiBankAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\splash.png",
+        "source": "C:\\Workspace\\backUp\\myProject\\workspace\\mobileBank\\HuBeiBankAS\\app\\src\\main\\res\\drawable-hdpi\\splash.png"
+    },
+    {
+        "merged": "C:\\Workspace\\backUp\\myProject\\workspace\\mobileBank\\HuBeiBankAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\push.png",
+        "source": "C:\\Workspace\\backUp\\myProject\\workspace\\mobileBank\\HuBeiBankAS\\app\\src\\main\\res\\drawable-hdpi\\push.png"
+    }
+]

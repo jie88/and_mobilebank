@@ -1,0 +1,377 @@
+<properties>
+
+    <features>
+        <feature
+            name="pluginSrnCapture"
+            value="io.dcloud.HBBank.plugin.ForbidScreenCapture" >
+        </feature>
+        <feature
+            name="pluginEncryprt"
+            value="io.dcloud.HBBank.plugin.PluginWebEncryprtCheck" >
+        </feature>
+        <feature
+            name="plugingetCrashLog"
+            value="cn.com.yusys.CrashLogPlugin" >
+        </feature>
+        <feature
+            name="plugingetMACAdress"
+            value="cn.com.yusys.MACAdressPlugin" >
+        </feature>
+        
+        <feature
+            name="plugingetIPAdress"
+            value="cn.com.yusys.IPAdressPlugin" >
+        </feature> 
+        <feature
+            name="pluginFingerprint"
+            value="cn.com.yusys.fingerprint.FingerprintPlugin" >
+        </feature>
+         <feature
+            name="pluginFrequencyKey"
+            value="cn.com.yusys.hubeibank.plugins.FrequencyKeyPlugins" >
+        </feature>
+		<feature
+            name="pluginPGKeyboard"
+            value="cn.com.yusys.pgkeyboard.PGKeyboard" >
+        </feature>
+        <feature
+            name="pluginMessage"
+            value="cn.com.yusys.plugins.rtc.JumpToMain" >
+        </feature>
+        
+        <feature
+            name="pluginBarcodeScan"
+            value="cn.com.yusys.plugins.barcode.BarcodePlugin" >
+        </feature>
+        
+		<feature
+            name="pluginGestureLock"
+            value="cn.com.yusys.plugins.geslock.GesLockPlugin" >
+        </feature>
+        <feature
+            name="pluginVideoCall"
+            value="cn.com.yusys.plugins.videosdk.VideoSdkPlugin" >
+        </feature>
+        
+        <feature
+            name="pluginNfcBankCardNumScan"
+            value="cn.com.yusys.plugins.nfcbankcard.NFCPlugin" >
+        </feature>
+        <feature
+            name="pluginHandWriting"
+            value="cn.com.yusys.plugins.apfx.HandWritingPlugin" >
+        </feature>
+
+        <feature
+            name="pluginDeviceId"
+            value="cn.com.yusys.plugins.deviceid.DeviceIdPlugin" >
+        </feature>
+
+        <feature
+            name="pluginReadMsg"
+            value="cn.com.yusys.plugins.readmsg.ReadMsgPlugin" >
+        </feature>
+        <feature
+            name="pluginrReadSim"
+            value="cn.com.yusys.plugins.readsim.ReadSimPlugin" >
+        </feature>
+
+        <feature
+            name="pluginExitHijacking"
+            value="cn.com.yusys.antihijack.ExitServicePlugin" >
+        </feature>
+
+        <feature
+            name="pluginConstant"
+            value="cn.com.yusys.plugins.constant.ConstantsPlugin" >
+        </feature>
+
+        <feature
+            name="pluginScreenshot"
+            value="cn.com.yusys.plugins.screenshot.ScreenShotPlugin" >
+        </feature>
+
+        <feature
+            name="pluginWebviewShot"
+            value="cn.com.yusys.plugins.signtoca.SignToCAPlugin" >
+        </feature>
+
+        <feature
+            name="pluginComplete"
+            value="cn.com.yusys.plugins.tamperproof.TamperproofPlugin" >
+        </feature>
+
+        <feature
+            name="pluginMD5"
+            value="cn.com.yusys.plugins.cryption.md5.MD5Plugin" >
+        </feature>
+
+        <feature
+            name="plugin3DES"
+            value="cn.com.yusys.plugins.cryption.des3.DES3Plugin" >
+        </feature>
+
+        <feature
+            name="pluginPrisonBreak"
+            value="cn.com.yusys.plugins.prisonbreak.PrisonBreakCheckPlugin" >
+        </feature>
+
+        <feature
+            name="pluginKeyboard"
+            value="cn.com.yusys.plugins.keyboard.fullkeyboard.Keyboard" >
+        </feature>
+        
+        <feature
+            name="pluginNumKeyboard"
+            value="cn.com.yusys.plugins.keyboard.numkeyboard.NumKeyboard" >
+        </feature>
+
+        <feature
+            name="Accelerometer"
+            value="io.dcloud.feature.sensor.AccelerometerFeatureImpl" />
+
+        <feature
+            name="Audio"
+            value="io.dcloud.feature.audio.AudioFeatureImpl" >
+        </feature>
+
+        <feature
+            name="Cache"
+            value="io.dcloud.feature.pdr.CoreCacheFeatureImpl" >
+        </feature>
+
+        <feature
+            name="Camera"
+            value="io.dcloud.js.camera.CameraFeatureImpl" >
+        </feature>
+
+        <feature
+            name="Console"
+            value="io.dcloud.feature.pdr.LoggerFeatureImpl" >
+        </feature>
+
+        <feature
+            name="Contacts"
+            value="io.dcloud.feature.contacts.ContactsFeatureImpl" >
+        </feature>
+
+        <feature
+            name="Device"
+            value="io.dcloud.feature.device.DeviceFeatureImpl" >
+        </feature>
+
+        <feature
+            name="Downloader"
+            value="io.dcloud.net.DownloaderFeatureImpl" >
+        </feature>
+
+        <feature
+            name="File"
+            value="io.dcloud.js.file.FileFeatureImpl" >
+        </feature>
+
+        <feature
+            name="Gallery"
+            value="io.dcloud.js.gallery.GalleryFeatureImpl" >
+        </feature>
+
+        <feature
+            name="Geolocation"
+            value="io.dcloud.js.geolocation.GeolocationFeatureImpl" />
+
+        <feature
+            name="Invocation"
+            value="io.dcloud.invocation.Invocation" >
+        </feature>
+
+        <feature
+            name="Messaging"
+            value="io.dcloud.adapter.messaging.MessagingPluginImpl" >
+        </feature>
+
+        <feature
+            name="Orientation"
+            value="io.dcloud.feature.sensor.OrientationFeatureImpl" />
+
+        <feature
+            name="Proximity"
+            value="io.dcloud.feature.sensor.ProximityFeatureImpl" >
+        </feature>
+
+        <feature
+            name="Storage"
+            value="io.dcloud.feature.pdr.NStorageFeatureImpl" >
+        </feature>
+
+        <feature
+            name="Navigator"
+            value="io.dcloud.feature.ui.navigator.NavigatorUIFeatureImpl" >
+        </feature>
+
+        <feature
+            name="NativeObj"
+            value="io.dcloud.feature.nativeObj.FeatureImpl" />
+
+        <feature
+            name="NativeUI"
+            value="io.dcloud.feature.ui.nativeui.NativeUIFeatureImpl" >
+        </feature>
+
+        <feature
+            name="UI"
+            value="io.dcloud.feature.ui.UIFeatureImpl" >
+
+            <module
+                name="Navigator"
+                value="io.dcloud.feature.ui.NavView" />
+        </feature>
+
+        <feature
+            name="Uploader"
+            value="io.dcloud.net.UploadFeature" >
+        </feature>
+
+        <feature
+            name="Runtime"
+            value="io.dcloud.feature.pdr.RuntimeFeatureImpl" >
+        </feature>
+
+        <feature
+            name="XMLHttpRequest"
+            value="io.dcloud.net.XMLHttpRequestFeature" >
+        </feature>
+
+        <feature
+            name="Zip"
+            value="io.dcloud.feature.pdr.ZipFeature" >
+        </feature>
+
+        <feature
+            name="Barcode"
+            value="io.dcloud.feature.barcode.BarcodeFeatureImpl" >
+        </feature>
+
+        <feature
+            name="OAuth"
+            value="io.dcloud.feature.oauth.OAuthFeatureImpl" >
+        </feature>
+
+        <feature
+            name="Maps"
+            value="io.dcloud.js.map.JsMapPluginImpl" >
+        </feature>
+
+        <feature
+            name="Speech"
+            value="io.dcloud.feature.speech.SpeechFeatureImpl" >
+
+            <module
+                name="iFly"
+                value="io.dcloud.feature.speech.IflySpeechEngine" />
+        </feature>
+
+        <feature
+            name="Push"
+            value="io.dcloud.feature.aps.APSFeatureImpl" >
+
+            <module
+                name="igexin"
+                value="io.dcloud.feature.apsGt.GTPushService" />
+        </feature>
+
+        <feature
+            name="Share"
+            value="io.dcloud.share.ShareFeatureImpl" >
+
+            <module
+                name="Sina"
+                value="io.dcloud.share.sina.SinaWeiboApiManager" />
+        </feature>
+
+        <feature
+            name="Share"
+            value="io.dcloud.share.ShareFeatureImpl" >
+
+            <module
+                name="Tencent"
+                value="io.dcloud.share.tencent.TencentWeiboApiManager" />
+        </feature>
+
+        <feature
+            name="Share"
+            value="io.dcloud.share.ShareFeatureImpl" >
+
+            <module
+                name="Weixin"
+                value="io.dcloud.share.mm.WeiXinApiManager" />
+        </feature>
+
+        <feature
+            name="Statistic"
+            value="io.dcloud.feature.statistics.StatisticsFeatureImpl" />
+
+        <feature
+            name="Share"
+            value="io.dcloud.share.ShareFeatureImpl" >
+
+            <module
+                name="QQ"
+                value="io.dcloud.share.qq.QQApiManager" />
+        </feature>
+
+        <feature
+            name="Payment"
+            value="io.dcloud.feature.payment.PaymentFeatureImpl" >
+
+            <module
+                name="AliPay"
+                value="io.dcloud.feature.payment.alipay.AliPay" />
+        </feature>
+
+        <feature
+            name="Payment"
+            value="io.dcloud.feature.payment.PaymentFeatureImpl" >
+
+            <module
+                name="Payment-Weixin"
+                value="io.dcloud.feature.payment.weixin.WeiXinPay" />
+        </feature>
+
+        <feature
+            name="OAuth"
+            value="io.dcloud.feature.oauth.OAuthFeatureImpl" >
+
+            <module
+                name="OAuth-Weixin"
+                value="io.dcloud.feature.oauth.weixin.WeiXinOAuthService" />
+
+            <module
+                name="OAuth-QQ"
+                value="io.dcloud.feature.oauth.qq.QQOAuthService" />
+
+            <module
+                name="OAuth-Sina"
+                value="io.dcloud.feature.oauth.sina.SinaOAuthService" />
+        </feature>
+    </features>
+
+    <services>
+
+        <service
+            name="Downloader"
+            value="io.dcloud.net.DownloaderBootImpl" />
+
+        <service
+            name="Statistic"
+            value="io.dcloud.feature.statistics.StatisticsBootImpl" />
+
+        <service
+            name="Maps"
+            value="io.dcloud.js.map.MapInitImpl" />
+
+        <service
+            name="push"
+            value="io.dcloud.feature.aps.APSFeatureImpl" />
+    </services>
+
+</properties>

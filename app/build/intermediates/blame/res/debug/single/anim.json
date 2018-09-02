@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Workspace\\backUp\\myProject\\workspace\\mobileBank\\HuBeiBankAS\\app\\build\\intermediates\\res\\merged\\debug\\anim\\dcloud_slide_in_from_top.xml",
+        "source": "C:\\Workspace\\backUp\\myProject\\workspace\\mobileBank\\HuBeiBankAS\\app\\src\\main\\res\\anim\\dcloud_slide_in_from_top.xml"
+    },
+    {
+        "merged": "C:\\Workspace\\backUp\\myProject\\workspace\\mobileBank\\HuBeiBankAS\\app\\build\\intermediates\\res\\merged\\debug\\anim\\dcloud_slide_out_to_top.xml",
+        "source": "C:\\Workspace\\backUp\\myProject\\workspace\\mobileBank\\HuBeiBankAS\\app\\src\\main\\res\\anim\\dcloud_slide_out_to_top.xml"
+    }
+]

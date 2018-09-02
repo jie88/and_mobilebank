@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="yumobile-hubiebank-log">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/yumobile-hubiebank-log.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

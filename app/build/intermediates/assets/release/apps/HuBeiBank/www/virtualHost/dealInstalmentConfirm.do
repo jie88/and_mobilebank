@@ -1,0 +1,1 @@
+{"ec":"000","em":"","cardNo":"6283400000000001","tranAmt":"789.00","FeeNum":"1","dealInstalmentList":[{"flowno":"81185","creditCardNo":"6283400000000001","TrxnDate":"20160714","TrxnDesc":"消费借方调整","BillCurrency":"156","TrxnAmt":"789.00"}]}

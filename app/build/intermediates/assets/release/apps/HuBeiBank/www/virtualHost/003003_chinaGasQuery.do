@@ -1,0 +1,1 @@
+{"ec":"000","em":"交易成功","userName":"小军","amountShouldBeCharged":"1752.45","ReqSeqNo":"625483","FeeNum":"1","areaId":"02","chargeNo":"075509914104","chargeType":"000000010018010"}

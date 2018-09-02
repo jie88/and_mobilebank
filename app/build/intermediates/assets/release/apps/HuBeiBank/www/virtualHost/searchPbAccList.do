@@ -1,0 +1,3 @@
+{"ec":"000","em":"","iAccountInfo_Mobile":[{"accountNo":"12345","accountType":"01","accountAilas":"哈","currencyType":"01","signFlag":"1","accountStat":"0","accountOpenNode":"","accountOpenNodeName":"111","defaultFlag":"","accountLastUse":""},
+{"accountNo":"22345","accountType":"01","accountAilas":"哈","currencyType":"01","signFlag":"1","accountStat":"0","accountOpenNode":"","accountOpenNodeName":"123","defaultFlag":"","accountLastUse":""},
+{"accountNo":"32345","accountType":"01","accountAilas":"哈","currencyType":"01","signFlag":"1","accountStat":"0","accountOpenNode":"","accountOpenNodeName":"233","defaultFlag":"","accountLastUse":""}]}

@@ -1,0 +1,1 @@
+{"ec":"000","em":"","iUnionPayAreaList":[{"areaId":"5200014201"}]}

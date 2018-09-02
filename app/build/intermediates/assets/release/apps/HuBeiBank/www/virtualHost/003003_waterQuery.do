@@ -1,0 +1,1 @@
+{"ec":"000","em":"交易成功","userName":"市纺织经销公司南园酒家","chargeNo":"0003413","amountShouldBeCharged":"5.03","FeeNum":"1","ReqSeqNo":"625472","areaId":"02","chargeType":"000000010008010"}

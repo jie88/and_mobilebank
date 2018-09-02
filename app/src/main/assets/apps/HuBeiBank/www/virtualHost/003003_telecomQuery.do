@@ -1,0 +1,1 @@
+{"ec":"000","em":"交易成功","payIdNo":"55081656","payNo":"1000170050","payName":"郑允武","LastOdd":"0.00","CurrOdd":"0.78","chargeFee":"71.22","ChagAmt":"0.00","amountShouldBeCharged":"72.00","serv_Id":"0","areaId":"05","chargeType":"000000010007010","chargeNo":"84200300"}

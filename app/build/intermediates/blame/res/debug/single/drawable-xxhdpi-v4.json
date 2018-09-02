@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Workspace\\backUp\\myProject\\workspace\\mobileBank\\HuBeiBankAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\push.png",
+        "source": "C:\\Workspace\\backUp\\myProject\\workspace\\mobileBank\\HuBeiBankAS\\app\\src\\main\\res\\drawable-xxhdpi\\push.png"
+    },
+    {
+        "merged": "C:\\Workspace\\backUp\\myProject\\workspace\\mobileBank\\HuBeiBankAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\splash.png",
+        "source": "C:\\Workspace\\backUp\\myProject\\workspace\\mobileBank\\HuBeiBankAS\\app\\src\\main\\res\\drawable-xxhdpi\\splash.png"
+    },
+    {
+        "merged": "C:\\Workspace\\backUp\\myProject\\workspace\\mobileBank\\HuBeiBankAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon.png",
+        "source": "C:\\Workspace\\backUp\\myProject\\workspace\\mobileBank\\HuBeiBankAS\\app\\src\\main\\res\\drawable-xxhdpi\\icon.png"
+    }
+]

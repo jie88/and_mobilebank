@@ -1,0 +1,1 @@
+{"ec":"000","em":"","accountNo":"100000000000000000","chargeNo":"0003413","amountShouldBeCharged":"5.03","userName":"市纺织经销公司南园酒家","areaId":"02","FeeNum":"1","ReqSeqNo":"625472","chargeType":"000000010008010","daypayment":"1341.02","accountName":"肖瑶瑶","amountRealCharged":"20.00","orderFlowNo":"1P13071120004361","requestToken":"cgfHI9oaLuku2mfwg1pNs4d6yQ8bHk4k"}

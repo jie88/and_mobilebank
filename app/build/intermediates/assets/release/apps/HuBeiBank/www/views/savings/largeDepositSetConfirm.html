@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
+		<title>大额存单</title>
+		<link href="../../css/mui.min.css" rel="stylesheet" />
+		<link href="../../css/public.css" rel="stylesheet" />
+	</head>
+	<body>
+		<header class="mui-bar mui-bar-nav hb-header">
+			<div class="header_wraper">
+				<a class="mui-action-back mui-icon mui-icon-left-nav mui-pull-left hb_back"></a>
+				<h1 class="mui-title hb-title">大额存单</h1>
+			</div>
+		</header>
+		<div class="content_BOXall hb_cont">
+			<div class="backbox_fo">
+				<p class="backbox_tit2">大额存单信息</p>
+				<ul class="p_lr30px">
+					<li>
+						<span class="detail_left">账号</span>
+						<span class="detail_right" id="accountNo"></span>
+					</li>
+					<li>
+						<span class="detail_left">币种 </span>
+						<span class="detail_right">人民币</span>
+					</li>
+					<li>
+						<span class="detail_left">存期 </span>
+						<span class="detail_right" id="largeDepositPeriod"></span>
+					</li>
+					<li>
+						<span class="detail_left">利率 </span>
+						<span class="detail_right" id="largeDepositRate"></span>
+					</li>
+					<li>
+						<span class="detail_left">购买金额 </span>
+						<span class="detail_right" id="amount"></span>
+					</li>
+				</ul>
+			</div>
+			<div class="btn_bg_f2">
+			   	<button class="but_150px but_w" id="preBtn">上一步</button>&nbsp;&nbsp;
+				<button class="but_150px but_red" id="nextBtn">确&nbsp;&nbsp;定</button>
+			</div>
+		</div>
+		<script type="text/javascript" src="../../js/common/jquery-1.12.0.min.js"></script>
+		<script type="text/javascript" src="../../js/common/mui.min.js"></script>
+		<script type="text/javascript" src="../../js/core/param.js"></script>
+		<script type="text/javascript" src="../../js/common/sea.js"></script>
+		<script>
+			seajs.config({
+				base: "../../js/controllers/"
+			});
+			seajs.use('savings/largeDepositSetConfirm');
+		</script>
+	</body>
+</html>

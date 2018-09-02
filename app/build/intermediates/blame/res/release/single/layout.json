@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "C:\\Workspace\\backUp\\myProject\\workspace\\mobileBank\\HuBeiBankAS\\app\\build\\intermediates\\res\\merged\\release\\layout\\loadingview.xml",
+        "source": "C:\\Workspace\\backUp\\myProject\\workspace\\mobileBank\\HuBeiBankAS\\app\\src\\main\\res\\layout\\loadingview.xml"
+    },
+    {
+        "merged": "C:\\Workspace\\backUp\\myProject\\workspace\\mobileBank\\HuBeiBankAS\\app\\build\\intermediates\\res\\merged\\release\\layout\\layout_sign_dialog.xml",
+        "source": "C:\\Workspace\\backUp\\myProject\\workspace\\mobileBank\\HuBeiBankAS\\app\\src\\main\\res\\layout\\layout_sign_dialog.xml"
+    },
+    {
+        "merged": "C:\\Workspace\\backUp\\myProject\\workspace\\mobileBank\\HuBeiBankAS\\app\\build\\intermediates\\res\\merged\\release\\layout\\finger_dialog_base.xml",
+        "source": "C:\\Workspace\\backUp\\myProject\\workspace\\mobileBank\\HuBeiBankAS\\app\\src\\main\\res\\layout\\finger_dialog_base.xml"
+    },
+    {
+        "merged": "C:\\Workspace\\backUp\\myProject\\workspace\\mobileBank\\HuBeiBankAS\\app\\build\\intermediates\\res\\merged\\release\\layout\\app_download_notification.xml",
+        "source": "C:\\Workspace\\backUp\\myProject\\workspace\\mobileBank\\HuBeiBankAS\\app\\src\\main\\res\\layout\\app_download_notification.xml"
+    },
+    {
+        "merged": "C:\\Workspace\\backUp\\myProject\\workspace\\mobileBank\\HuBeiBankAS\\app\\build\\intermediates\\res\\merged\\release\\layout\\streamapp_list_item.xml",
+        "source": "C:\\Workspace\\backUp\\myProject\\workspace\\mobileBank\\HuBeiBankAS\\app\\src\\main\\res\\layout\\streamapp_list_item.xml"
+    },
+    {
+        "merged": "C:\\Workspace\\backUp\\myProject\\workspace\\mobileBank\\HuBeiBankAS\\app\\build\\intermediates\\res\\merged\\release\\layout\\streamapp_list.xml",
+        "source": "C:\\Workspace\\backUp\\myProject\\workspace\\mobileBank\\HuBeiBankAS\\app\\src\\main\\res\\layout\\streamapp_list.xml"
+    },
+    {
+        "merged": "C:\\Workspace\\backUp\\myProject\\workspace\\mobileBank\\HuBeiBankAS\\app\\build\\intermediates\\res\\merged\\release\\layout\\dcloud_loadingview.xml",
+        "source": "C:\\Workspace\\backUp\\myProject\\workspace\\mobileBank\\HuBeiBankAS\\app\\src\\main\\res\\layout\\dcloud_loadingview.xml"
+    },
+    {
+        "merged": "C:\\Workspace\\backUp\\myProject\\workspace\\mobileBank\\HuBeiBankAS\\app\\build\\intermediates\\res\\merged\\release\\layout\\layout_sign_progressdialog.xml",
+        "source": "C:\\Workspace\\backUp\\myProject\\workspace\\mobileBank\\HuBeiBankAS\\app\\src\\main\\res\\layout\\layout_sign_progressdialog.xml"
+    },
+    {
+        "merged": "C:\\Workspace\\backUp\\myProject\\workspace\\mobileBank\\HuBeiBankAS\\app\\build\\intermediates\\res\\merged\\release\\layout\\image_pick_gallery.xml",
+        "source": "C:\\Workspace\\backUp\\myProject\\workspace\\mobileBank\\HuBeiBankAS\\app\\src\\main\\res\\layout\\image_pick_gallery.xml"
+    },
+    {
+        "merged": "C:\\Workspace\\backUp\\myProject\\workspace\\mobileBank\\HuBeiBankAS\\app\\build\\intermediates\\res\\merged\\release\\layout\\main_test_activity.xml",
+        "source": "C:\\Workspace\\backUp\\myProject\\workspace\\mobileBank\\HuBeiBankAS\\app\\src\\main\\res\\layout\\main_test_activity.xml"
+    },
+    {
+        "merged": "C:\\Workspace\\backUp\\myProject\\workspace\\mobileBank\\HuBeiBankAS\\app\\build\\intermediates\\res\\merged\\release\\layout\\layout_sign_dialog_event.xml",
+        "source": "C:\\Workspace\\backUp\\myProject\\workspace\\mobileBank\\HuBeiBankAS\\app\\src\\main\\res\\layout\\layout_sign_dialog_event.xml"
+    },
+    {
+        "merged": "C:\\Workspace\\backUp\\myProject\\workspace\\mobileBank\\HuBeiBankAS\\app\\build\\intermediates\\res\\merged\\release\\layout\\increment_popup_dialog.xml",
+        "source": "C:\\Workspace\\backUp\\myProject\\workspace\\mobileBank\\HuBeiBankAS\\app\\src\\main\\res\\layout\\increment_popup_dialog.xml"
+    },
+    {
+        "merged": "C:\\Workspace\\backUp\\myProject\\workspace\\mobileBank\\HuBeiBankAS\\app\\build\\intermediates\\res\\merged\\release\\layout\\snow_white_progress.xml",
+        "source": "C:\\Workspace\\backUp\\myProject\\workspace\\mobileBank\\HuBeiBankAS\\app\\src\\main\\res\\layout\\snow_white_progress.xml"
+    },
+    {
+        "merged": "C:\\Workspace\\backUp\\myProject\\workspace\\mobileBank\\HuBeiBankAS\\app\\build\\intermediates\\res\\merged\\release\\layout\\dcloud_dialog.xml",
+        "source": "C:\\Workspace\\backUp\\myProject\\workspace\\mobileBank\\HuBeiBankAS\\app\\src\\main\\res\\layout\\dcloud_dialog.xml"
+    },
+    {
+        "merged": "C:\\Workspace\\backUp\\myProject\\workspace\\mobileBank\\HuBeiBankAS\\app\\build\\intermediates\\res\\merged\\release\\layout\\dcloud_view_splash.xml",
+        "source": "C:\\Workspace\\backUp\\myProject\\workspace\\mobileBank\\HuBeiBankAS\\app\\src\\main\\res\\layout\\dcloud_view_splash.xml"
+    },
+    {
+        "merged": "C:\\Workspace\\backUp\\myProject\\workspace\\mobileBank\\HuBeiBankAS\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification.xml",
+        "source": "C:\\Workspace\\backUp\\myProject\\workspace\\mobileBank\\HuBeiBankAS\\app\\src\\main\\res\\layout\\notification.xml"
+    },
+    {
+        "merged": "C:\\Workspace\\backUp\\myProject\\workspace\\mobileBank\\HuBeiBankAS\\app\\build\\intermediates\\res\\merged\\release\\layout\\market_fragment_base.xml",
+        "source": "C:\\Workspace\\backUp\\myProject\\workspace\\mobileBank\\HuBeiBankAS\\app\\src\\main\\res\\layout\\market_fragment_base.xml"
+    },
+    {
+        "merged": "C:\\Workspace\\backUp\\myProject\\workspace\\mobileBank\\HuBeiBankAS\\app\\build\\intermediates\\res\\merged\\release\\layout\\stream_running_progress.xml",
+        "source": "C:\\Workspace\\backUp\\myProject\\workspace\\mobileBank\\HuBeiBankAS\\app\\src\\main\\res\\layout\\stream_running_progress.xml"
+    },
+    {
+        "merged": "C:\\Workspace\\backUp\\myProject\\workspace\\mobileBank\\HuBeiBankAS\\app\\build\\intermediates\\res\\merged\\release\\layout\\image_pick_gallery_item.xml",
+        "source": "C:\\Workspace\\backUp\\myProject\\workspace\\mobileBank\\HuBeiBankAS\\app\\src\\main\\res\\layout\\image_pick_gallery_item.xml"
+    },
+    {
+        "merged": "C:\\Workspace\\backUp\\myProject\\workspace\\mobileBank\\HuBeiBankAS\\app\\build\\intermediates\\res\\merged\\release\\layout\\snow_black_progress.xml",
+        "source": "C:\\Workspace\\backUp\\myProject\\workspace\\mobileBank\\HuBeiBankAS\\app\\src\\main\\res\\layout\\snow_black_progress.xml"
+    },
+    {
+        "merged": "C:\\Workspace\\backUp\\myProject\\workspace\\mobileBank\\HuBeiBankAS\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_inc.xml",
+        "source": "C:\\Workspace\\backUp\\myProject\\workspace\\mobileBank\\HuBeiBankAS\\app\\src\\main\\res\\layout\\notification_inc.xml"
+    },
+    {
+        "merged": "C:\\Workspace\\backUp\\myProject\\workspace\\mobileBank\\HuBeiBankAS\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_main_market.xml",
+        "source": "C:\\Workspace\\backUp\\myProject\\workspace\\mobileBank\\HuBeiBankAS\\app\\src\\main\\res\\layout\\activity_main_market.xml"
+    }
+]

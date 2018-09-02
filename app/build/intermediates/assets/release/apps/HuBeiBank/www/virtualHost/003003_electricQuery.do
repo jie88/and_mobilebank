@@ -1,0 +1,1 @@
+{"ec":"000","em":"交易成功","userName":"ceshi                                                       ","chargeNo":"5201314","balance":"0.01               ","amountShouldBeCharged":"19.20","areaId":"05","chargeType":"000000010020010"}

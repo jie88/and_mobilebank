@@ -1,0 +1,1 @@
+{"ec":"000","em":"鍝嶅簲淇℃伅","accountNo":"111111111","accountOpenNodeName":"武汉分行营业部","accountStat":"0","customerName":"测试用户11"}

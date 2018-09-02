@@ -1,0 +1,105 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 19
+    buildToolsVersion "28.0.1"
+
+    defaultConfig {
+        applicationId "cn.com.yusys.app.HuBeiBank"
+        minSdkVersion 8
+        targetSdkVersion 22
+        multiDexEnabled true
+        compileOptions {
+            sourceCompatibility JavaVersion.VERSION_1_7
+            targetCompatibility JavaVersion.VERSION_1_7
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile 'com.google.code.gson:gson:2.5'
+    compile files('libs/alipaysdk.jar')
+    compile files('libs/alipaysecsdk.jar')
+    compile files('libs/alipayutdid.jar')
+    compile files('libs/android-support-v4-23.3.0.jar')
+    compile files('libs/aps-igexin.jar')
+    compile files('libs/aps.jar')
+    compile files('libs/audio.jar')
+    compile files('libs/BaiduLBS_Android.jar')
+    compile files('libs/barcode.jar')
+    compile files('libs/bcprov-jdk16-145.jar')
+    compile files('libs/camera.jar')
+    compile files('libs/commons-codec-1.6.jar')
+    compile files('libs/contacts.jar')
+    compile files('libs/device.jar')
+    compile files('libs/downloader.jar')
+    compile files('libs/encryptlib.jar')
+    compile files('libs/file.jar')
+    compile files('libs/ftKeyInterface.jar')
+    compile files('libs/ftLoader.jar')
+    compile files('libs/gallery.jar')
+    compile files('libs/geolocation-baidu.jar')
+    compile files('libs/geolocation-system.jar')
+    compile files('libs/geolocation.jar')
+    compile files('libs/GetuiExt-2.0.3.jar')
+    compile files('libs/GetuiSDK2.7.0.0.jar')
+    compile files('libs/hubeibank.jar')
+    compile files('libs/internal_impl-23.3.0.jar')
+    compile files('libs/invocation.jar')
+    compile files('libs/jg_filter_sdk_1.1.jar')
+    compile files('libs/jpush-android-2.0.5.jar')
+    compile files('libs/json_simple-1.1.jar')
+    compile files('libs/map-baidu.jar')
+    compile files('libs/messaging.jar')
+    compile files('libs/Msc.jar')
+    compile files('libs/nativeObj.jar')
+    compile files('libs/nativeui.jar')
+    compile files('libs/navigatorui.jar')
+    compile files('libs/nineoldandroids-2.4.0.jar')
+    compile files('libs/nopermission.jar')
+    compile files('libs/oauth-qq.jar')
+    compile files('libs/oauth-sina.jar')
+    compile files('libs/oauth-weixin.jar')
+    compile files('libs/oauth.jar')
+    compile files('libs/open_sdk_r5043_lite.jar')
+    compile files('libs/passguard.jar')
+    compile files('libs/payment-alipay.jar')
+    compile files('libs/payment-weixin.jar')
+    compile files('libs/payment.jar')
+    compile files('libs/pdr.jar')
+    compile files('libs/pgx.jar')
+    compile files('libs/sensor.jar')
+    compile files('libs/share-qq.jar')
+    compile files('libs/share-sina.jar')
+    compile files('libs/share-tencent.jar')
+    compile files('libs/share-weixin.jar')
+    compile files('libs/share.jar')
+    compile files('libs/speech.jar')
+    compile files('libs/speech_ifly.jar')
+    compile files('libs/statistics-umeng.jar')
+    compile files('libs/tx_weibo_sdk-httpclient-3.0.1.jar')
+    compile files('libs/tx_weibo_sdk.jar')
+    compile files('libs/tx_weibo_sdk_component.jar')
+    compile files('libs/tx_wx.jar')
+    compile files('libs/ui.jar')
+    compile files('libs/umeng-analytics-v5.6.1.jar')
+    compile files('libs/universal-image-loader-1.9.0.jar')
+    compile files('libs/uploader.jar')
+    compile files('libs/weibosdk.jar')
+    compile files('libs/weibosdkcore.jar')
+    compile files('libs/Xg_sdk_v2.42_20160111_1539.jar')
+    compile files('libs/xhr.jar')
+    compile files('libs/yumobile-android-common.jar')
+    compile files('libs/yumobile-android-fingerprint.jar')
+    compile files('libs/yumobile-android-frequencykey.jar')
+    compile files('libs/yumobile-android-h5plugins.jar')
+    compile files('libs/yumobile-hubiebank-log.jar')
+    compile files('libs/yumobile-hubiebank-passguard.jar')
+}

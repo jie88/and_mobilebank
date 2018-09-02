@@ -1,0 +1,1 @@
+{"ec":"000","em":"处理成功","goldUID":"10045111","areaCode":"","tel":"13936666666","addr":"","zipCode":"523000","email":"","goldAcctNo":"","goldAipNo":"AIP100000531","accountNo":"621270171600631936","userName":"测试用户"}

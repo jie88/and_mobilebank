@@ -1,0 +1,1 @@
+{"ec":"000","em":"交易成功","accountNo":"100000000000000000","subAccountNo":"180100101900000139","currencyType":"01","openDate":"20130708","drawAmount":"69244.78","savingPeriod":"1","transferFlowNo":"1P13071120004279","subAccountSerNo":"29"}

@@ -1,0 +1,1 @@
+{"ec":"000","em":"","f_productChart":[{"f_chartValue":"2.8051","f_navdate":"20170623"}]}

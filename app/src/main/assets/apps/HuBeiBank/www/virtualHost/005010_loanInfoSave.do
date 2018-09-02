@@ -1,0 +1,1 @@
+{"ec":"000","em":"","constant":"2","managerName":"张三","customerSex":"1","userName":"张晓峰","amount":"131,313.00","productNames":"个人商用房按揭贷款,个人汽车贷款,个人综合消费贷款","branchName":"湖北银行股份有限公司总行营业部","branchAddress":"湖北省武汉市武昌区中北路81号","telephone":"13656566778"}

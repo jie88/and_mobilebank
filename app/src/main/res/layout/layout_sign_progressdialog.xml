@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="#ffffff" >
+    
+    <TextView 
+        android:id="@+id/tv_tip"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:textColor="#ff000000"
+        android:padding="5dp"/>
+
+    <Button
+        android:id="@+id/btn_reverse"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/sign_progressdialog_reverse_button"
+        android:padding="5dp"
+        android:text="翻转屏幕"
+        android:textSize="18sp" />
+
+</LinearLayout>

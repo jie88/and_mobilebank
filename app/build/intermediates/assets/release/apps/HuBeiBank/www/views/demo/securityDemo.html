@@ -1,0 +1,120 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8" />
+<meta name="viewport"
+	content="initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta name="misapplication-tap-highlight" content="no" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="MobileOptimized" content="320" />
+<title>签名/获取手写签名</title>
+<style type="text/css">
+	.test{
+		line-break: normal;
+		word-break: break-word;
+		font-style: oblique;
+	}
+</style>
+<script src="../../js/common/jquery-1.12.0.min.js"></script>
+<script src="../../js/common/mui.min.js"></script>
+<script src="../../js/common/frequencyKey/plugin-frequencykey.js" type="text/javascript" charset="utf-8"></script>
+<script type="text/javascript">
+	function reverseFrequencyKey() {
+
+		plus.pluginFrequencyKey.reverseFrequencyKey(function(result) {
+			var msg = result.message;
+			alert(msg);
+		}, function(result) {
+			alert(result);
+		});
+	}
+	function getsnFrequencyKey() {
+
+		plus.pluginFrequencyKey.getsnFrequencyKey(function(result) {
+			var msg = result.message;
+			alert(msg);
+		}, function(result) {
+			alert(result);
+		});
+	}
+	function enumCertFrequencyKey() {
+
+		plus.pluginFrequencyKey.enumCertFrequencyKey(function(result) {
+			var msg = result.message;
+			alert(msg);
+		}, function(result) {
+			alert(result);
+		});
+	}
+	function getCertFrequencyKey() {
+
+		plus.pluginFrequencyKey.getCertFrequencyKey(2, function(result) {
+			var msg = result.message;
+			alert(msg);
+		}, function(result) {
+			alert(result);
+		});
+	}
+	
+	function changePinFrequencyKey() {
+
+		plus.pluginFrequencyKey.changePinFrequencyKey("yuxin12345",
+				"yuxin123456", function(result) {
+					var msg = result.message;
+					alert(msg);
+				}, function(result) {
+					alert(result);
+				});
+	}
+
+	function certSignFrequencyKey() {
+		plus.pluginFrequencyKey.certSignFrequencyKey(0, "111111a", 1, "<?xml version=\"1.0\" encoding=\"UTF-8\"?><T><D><M><k>收款人名称：</k><v>王艳双\n</v></M><M><k>金额：</k><v>123.23\n</v><k>收款人账号：</k> <v>123456789012345600000000\n</v></M></D><E><M><k>流水号：</k><v>12345678</v></M></E><F>hahaha</F></T>",
+				"正在签名..........","请核对UKey屏幕上显示的内容是否正确，如确认请按“OK”键，否则按“C”键取消！O(∩_∩)O哈哈~",true,
+				function(result) {
+					var msg = result.message;
+					if(msg && msg=='1'){
+						alert(result.payload)
+					}
+				}, function(result) {
+					alert(result);
+				});
+	}
+	function destroyFrequencyKey() {
+
+		plus.pluginFrequencyKey.destroyFrequencyKey(function(result) {
+			var msg = result.message;
+			alert(msg);
+		}, function(result) {
+			alert(result);
+		});
+	}
+</script>
+<link rel="stylesheet" href="../css/common.css" type="text/css"
+	charset="utf-8" />
+</head>
+<body>
+	<header>
+		<div class="nvbt iback" onclick="back(true);"></div>
+		<div class="nvtt">飞天音频Key</div>
+	</header>
+	<div id="dcontent" class="dcontent">
+		<br />
+		<div class="button" onclick="reverseFrequencyKey()">翻转屏幕</div>
+		<br /> <br />
+		<div class="button" onclick="getsnFrequencyKey()">获取序列号</div>
+		<br /> <br />
+		<div class="button" onclick="enumCertFrequencyKey()">枚举证书</div>
+		<br /> <br />
+		<div class="button" onclick="getCertFrequencyKey()">获取证书信息</div>
+		<br /> <br />
+		<div class="button" onclick="changePinFrequencyKey()">修改pin</div>
+		<br />
+		<br /> <br />
+		<div class="button test" onclick="certSignFrequencyKey()">签名</div>
+		<br />
+		<br /> <br />
+		<div class="button" onclick="destroyFrequencyKey()">关闭音频key</div>
+		<br />
+		
+</body>
+</html>

@@ -1,0 +1,1 @@
+{"ec":"000","em":"","accountNo":"100000000000000000","chargeNo":"075509914104","amountShouldBeCharged":"1752.45","userName":"小军","areaId":"02","ReqSeqNo":"625483","FeeNum":"1","daypayment":"3141.02","accountName":"肖瑶瑶","chargeType":"000000010018010","amountRealCharged":"1800.00","orderFlowNo":"1P13071120004363","requestToken":"jqPyutNHcyKACDIuITsAHe05aEJJfHrr"}

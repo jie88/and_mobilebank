@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="pgx">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/pgx.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

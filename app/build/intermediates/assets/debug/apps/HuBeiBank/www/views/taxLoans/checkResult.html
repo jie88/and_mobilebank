@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1,maximum-scale=1,user-scalable=no"/>
+		<title>税易贷</title>
+		<link rel="stylesheet" href="../../css/mui.min.css" />
+		<link rel="stylesheet" href="../../css/public.css" />
+		<link rel="stylesheet" href="../../css/style.css" />
+		<link rel="stylesheet" href="../../css/life.css" />
+	</head>
+	<style>
+		head{
+			z-index: 999;
+		}
+		.card-zh{
+			width: 86%;
+		    height: 180px;
+		    margin: 0 auto;
+		    margin-top: 20px;
+		    border-radius: 6px;
+		    background: #f6f0e9;
+		    text-align: center;
+		}
+		.card-ex {
+		    display: block;
+		    margin: 0 auto;
+		    margin-top: 20px;
+		}
+		.comment {
+		    padding-left: 15px;
+		    color: #999;
+		    font-size: 1.17em;
+			padding-left: 15px;
+			-moz-text-size-adjust: 100%;
+			color: #333;
+			text-decoration: none;	
+		}
+		
+        .color9{
+            color:#999;
+        }
+        
+        .outterest{
+				width: 200px;
+				height: 100px;
+				overflow: hidden;
+				position: relative;
+				margin: 0 auto;
+				/*animation:transformCircle 0.55s linear ;*/
+			}
+			
+			@-webkit-keyframes transformCircle{
+				0%{
+					transform: rotate(0deg);
+					-webkit-transform: rotate(0deg);
+				}
+				
+				50%{
+					transform: rotate(90deg);
+					-webkit-transform: rotate(90deg);
+				}
+				
+				100%{
+					transform: rotate(180deg);
+					-webkit-transform: rotate(180deg);
+				}
+			}
+			
+			.back{
+				border: none;
+				border-radius: 50%;
+				position: absolute;
+				left: 0px;
+				top: 0px;
+				z-index: 100;
+				width: 200px;
+				height: 200px;
+				background-color: #E3E3E3;
+				/*clip: rect(100px,auto,auto,auto);*/
+			}
+			
+			.outter{
+				width: 200px;
+				height: 200px;
+				/*background-color: #777777;*/
+				box-sizing: border-box;
+				border:none;
+				/*border-image: -webkit-linear-gradient( red , blue) 10 30;*/
+				/*border-image: -webkit-linear-gradient( 180deg, #0000CC 5%, #0044CC 30%, #0062CC 50%) 1 40;*/
+				/*-webkit-border-after-color: #0062CC;*/
+				border-radius: 50%;
+				/*-webkit-border-start-color: #0015aa;*/
+				text-align: center;
+				background: linear-gradient(to left ,#bfd8ef,#0c80ea);
+				position: absolute;
+				clip: rect(100px,auto,auto,auto);   
+				z-index: 101;
+				animation:transformCircle 2s linear;
+				-webkit-animation:transformCircle 2s linear;
+				transform: rotate(180deg);
+				-webkit-transform: rotate(180deg);
+			}
+			.inner{
+				width: 180px;
+				height: 180px;
+				/*background-color: #2187E7;*/
+				font-family: castellar;
+				border:#0c80ea 2px dotted;
+				border-radius: 50%;
+				/*background: linear-gradient(to right ,#bfd8ef,#0c80ea);*/
+				background: #FFFFFF;
+				position: absolute;
+				left: 10px;
+				top: 8px;
+				z-index: 300;
+				clip: rect(90px,auto,auto,auto);
+				/*animation:transformCircle 5s linear;*/
+			}
+			.mask{
+				width: 190px;
+				height: 190px;
+				/*background-color: #2187E7;*/
+				box-sizing: border-box;
+				border:none;
+				border-radius: 50%;
+				background: #FFFFFF;
+				position: absolute;
+				left: 5px;
+				top: 5px;
+				z-index: 200;
+				clip: rect(95px,auto,auto,auto);
+			}
+			
+			.mask2{
+				width: 190px;
+				height: 190px;
+				/*background-color: #2187E7;*/
+				box-sizing: border-box;
+				border:none;
+				border-radius: 50%;
+				background: #FFFFFF;
+				position: absolute;
+				left: 5px;
+				top: 5px;
+				z-index: 200;
+			}
+			
+			#view{
+				position: absolute;
+				height: 20px;
+				width: 100px;
+				z-index: 999;
+				top: 50px;
+				left: 50px;
+				text-align: center;
+			}
+			
+			#view p{
+				margin:0px 0px 6px -10px;
+				padding:0px;
+			}
+			
+	</style>
+	<body>
+		<header class="mui-bar mui-bar-nav hb-header">
+			<a class="mui-action-back mui-icon mui-icon-left-nav mui-pull-left hb_back"></a>
+			<h1 class="mui-title hb-title">申请结束</h1>
+		</header>
+		<div class="content_BOXall m-top25 p_down10px hb_cont" >
+			
+		</div>
+		<div class="hb_cont" style="margin-top: 80px;padding-top: 20px;" >
+			<div>
+				<!--<div class="success_icon1 suc_top7px" ></div>-->
+				<div class="outterest">
+					<div class="outter">
+						<div class="inner">
+							
+						</div>
+						<div class="mask">
+							
+						</div>
+					</div>
+						<div class="back">
+							<div class="mask2">
+							
+							</div>
+						</div>
+					<div id="view">
+						<p>当前可用额度</p>
+						<p id="limit" style="font-size: 25px;"></p>
+						<p id="limit2" style="font-size: 25px;display: none;"></p>
+					</div>
+				</div></br>
+				<p class="fz_18 text_m" id="contentTwo">恭喜您，申请成功！</p>
+				<p class="fz_18 text_m" id="content">正等待审批</p></br>
+				<p class="color9 text_m" >申请流水号：134654100005462</p>
+
+			</div>
+		
+			<div class="btn_bg_f2">
+				<button class="but_315px but_red" id="next">完   成</button>
+			</div>
+		</div>
+		
+		<script src="../../js/common/jquery-1.12.0.min.js" type="text/javascript" charset="utf-8"></script>
+		<script src="../../js/common/mui.min.js" type="text/javascript" charset="utf-8"></script> 
+		<script src="../../js/core/support.js" type="text/javascript" charset="utf-8"></script>
+		<script src="../../js/core/utils.js" type="text/javascript" charset="utf-8"></script>
+		<script src="../../js/core/param.js" type="text/javascript" charset="utf-8"></script>
+		<script src="../../js/common/sea.js"></script>
+		<script type="text/javascript">
+			seajs.config({
+				base: "../../js/controllers/"
+			});
+			 
+			seajs.use('taxLoans/checkResult');  
+			
+		</script>
+	</body>
+</html>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="yumobile-hubiebank-passguard">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/yumobile-hubiebank-passguard.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

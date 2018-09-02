@@ -1,0 +1,1 @@
+{"ec":"000","em":"","iManagerArray":[{"managerCode":"1000000012","managerName":"李四","managerPhone":"13554697676"},{"managerCode":"1000000013","managerName":"张三","managerPhone":"15972691390"}]}

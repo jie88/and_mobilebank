@@ -1,0 +1,1 @@
+{"ec":"000","em":"","messageId":"1000000016","messageTitle":null,"messageContent":null,"messageTime":null,"iBankNotice":[{"messageId":"1000000016","messageTitle":"湖北银行公告1","messageContent":"&nbsp;&nbsp;&nbsp;&nbsp;湖北银行个人网上银行公告测试内容","messageTime":"20130531094520"}]}

@@ -1,0 +1,152 @@
+-injars 'C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\build\intermediates\transforms\jarMerging\release\jars\1\1f\combined.jar'
+-outjars 'C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\build\intermediates\multi-dex\release\componentClasses.jar'
+
+-libraryjars 'C:\Workspace\android-sdk\sdk\build-tools\28.0.1\lib\shrinkedAndroid.jar'
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontusemixedcaseclassnames
+-dontpreverify
+-dontnote **,com.android.tools.fd.**,android.support.multidex.MultiDexExtractor
+-dontwarn **
+-printconfiguration 'C:\Workspace\backUp\myProject\workspace\mobileBank\HuBeiBankAS\app\build\intermediates\multi-dex\release\components.flags'
+
+
+-keep class io.dcloud.PandoraEntry {
+    <init>();
+}
+
+-keep class io.dcloud.PandoraEntryActivity {
+    <init>();
+}
+
+-keep class io.dcloud.common.adapter.io.MiniServerService {
+    <init>();
+}
+
+-keep class io.dcloud.imagepick.CustomGalleryActivity {
+    <init>();
+}
+
+-keep class cn.com.yusys.plugins.nfcbankcard.NFCardActivity {
+    <init>();
+}
+
+-keep class com.baidu.location.f {
+    <init>();
+}
+
+-keep class com.tencent.tauth.AuthActivity {
+    <init>();
+}
+
+-keep class com.tencent.connect.common.AssistActivity {
+    <init>();
+}
+
+-keep class io.dcloud.feature.apsGt.PushMessageReceiver {
+    <init>();
+}
+
+-keep class io.dcloud.feature.apsGt.GTNotificationReceiver {
+    <init>();
+}
+
+-keep class com.igexin.sdk.PushService {
+    <init>();
+}
+
+-keep class com.igexin.sdk.PushServiceUser {
+    <init>();
+}
+
+-keep class com.igexin.sdk.PushReceiver {
+    <init>();
+}
+
+-keep class com.igexin.sdk.PushManagerReceiver {
+    <init>();
+}
+
+-keep class com.igexin.sdk.PushActivity {
+    <init>();
+}
+
+-keep class com.igexin.download.DownloadService {
+    <init>();
+}
+
+-keep class com.igexin.download.DownloadReceiver {
+    <init>();
+}
+
+-keep class com.igexin.download.DownloadProvider {
+    <init>();
+}
+
+-keep class com.igexin.getuiext.activity.GetuiExtActivity {
+    <init>();
+}
+
+-keep class com.igexin.sdk.GActivity {
+    <init>();
+}
+
+-keep class com.igexin.getuiext.service.PayloadReceiver {
+    <init>();
+}
+
+-keep class com.igexin.getuiext.service.GetuiExtService {
+    <init>();
+}
+
+-keep class io.dcloud.share.tencent.WebAuthorize {
+    <init>();
+}
+
+-keep class io.dcloud.HBuilder.Hello.wxapi.WXEntryActivity {
+    <init>();
+}
+
+-keep class com.alipay.sdk.app.H5PayActivity {
+    <init>();
+}
+
+-keep class com.alipay.sdk.auth.AuthActivity {
+    <init>();
+}
+
+-keep class io.dcloud.HBuilder.Hello.wxapi.WXPayEntryActivity {
+    <init>();
+}
+
+-keep class cn.com.yusys.plugins.apfx.HandwritingActivity {
+    <init>();
+}
+
+-keep class rtc.sdk.impl.SdkService {
+    <init>();
+}
+
+-keep class cn.com.yusys.plugins.rtc.DemoApp {
+    <init>();
+}
+
+-keep class io.dcloud.CrashActivity {
+    <init>();
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}
+
+-keep class com.android.tools.fd.** {
+    <fields>;
+    <methods>;
+}

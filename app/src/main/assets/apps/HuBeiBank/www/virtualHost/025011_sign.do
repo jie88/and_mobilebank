@@ -1,0 +1,1 @@
+{"ec":"000","em":"交易成功","subAccountNo":"0","dealCode":"1","accountStat":null,"customerSubmitTime":"20130711144516","transferFlowNo":"1P13071120004284","orderState":"90","accountNo":"100000000000000003","customerNameCN":null}

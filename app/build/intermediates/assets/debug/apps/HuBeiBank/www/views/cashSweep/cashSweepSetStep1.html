@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
+		<title>资金归集</title>
+		<link rel="stylesheet" type="text/css" href="../../css/mui.min.css"/>
+		<link rel="stylesheet" type="text/css" href="../../css/public.css"/>
+		<link rel="stylesheet" type="text/css" href="../../css/style.css"/>
+	</head>
+	<body>
+		<header class="mui-bar mui-bar-nav hb-header">
+		    <div class="header_wraper">
+		      	<a class="mui-action-back mui-icon mui-icon-left-nav mui-pull-left hb_back"></a>
+				<h1 class="mui-title hb-title">资金归集账户设置</h1>
+		    </div>
+		</header>
+		<div class="content_BOXall p_down20px hb_cont">
+			<div class="backbox_fo p_lr20px p_top10px p_down20px word_bg">
+				<p class="hint_con fz_12 color_3" style="text-align: center;font-size: 15px;">个人账户资金自动归集服务须知</p>
+				<p class="hint_con fz_12">尊敬的客户：</p>
+				<p class="hint_con fz_12 color_6">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;感谢您选择使用个人账户资金自动归集服务，为使您更好的享受服务，请仔细阅读并遵守如下须知。</p>
+				<p class="hint_con fz_12 color_6">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;一、个人账户资金自动归集服务是指我行接受个人网上银行客户在线提交的委托，在保留被归集账户一定资金的情况下，按照客户要求将被归集账户资金归集到指定账户的服务。</p>
+				<p class="hint_con fz_12 color_6">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;二、您在办理账户资金自动归集业务时，请使用手机动态短信、动态令牌或USBKEY进行签名。</p>
+				<p class="hint_con fz_12 color_6">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;三、如果您在设置的协议期限内提前终止本服务，将损失您已支付的服务费。建议您尽可能不要提前终止。</p>
+				<p class="hint_con fz_12 color_6">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;四、在服务有效期内，若因以下情况造成您提交的资金归集指令未被正确执行的，我行不承担任何责任：</p>
+				<p class="hint_con fz_12 color_6">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1．您的设置信息发生变更，但未在我行及时更新；</p>
+				<p class="hint_con fz_12 color_6">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2．您的账户存款余额不足；</p>
+				<p class="hint_con fz_12 color_6">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3．您的账户资金被依法冻结或扣划；</p>
+				<p class="hint_con fz_12 color_6">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4．您未能按照与我行的约定进行正确操作；</p>
+				<p class="hint_con fz_12 color_6">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5．您的账户处于非正常状态的（如挂失等）；</p>
+				<p class="hint_con fz_12 color_6">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6．不可抗力或其他不属银行过失的情况。</p>
+				<p class="hint_con fz_12 color_6">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;五、您使用本服务，须同时遵守《湖北银行电子银行个人客户服务协议》的约定。</p>
+			</div>
+			<div class="content_box5px p_lr10px box_top15px p_down66px">
+				<p class="hint">温馨提示</p>
+				<p class="hint_con fz_12">1.请仔细阅读资金归集协议,以保障自己的合法权益，接受此协议即可进行资金归集。</p>
+				<p class="hint_con fz_12">2.必须是同时签约了"可查询"、"可支付"两种权限的他行账户，方可进行资金归集。</p>
+			</div>
+			<div class="btn_bg_f2">
+	       		<button class="but_150px but_w" id="prevButton" noCheck="false">不接受</button>
+	        	<button class="but_150px but_red" id="nextButton" noCheck="false">已阅读并接受</button>
+	    	</div>
+		</div>
+	    <script type="text/javascript" src="../../js/common/mui.min.js"></script>
+		<script type="text/javascript" src="../../js/common/jquery-1.12.0.min.js"></script>
+		<script type="text/javascript" src="../../js/core/support.js"></script>
+		<script type="text/javascript" src="../../js/common/sea.js"></script>
+		<script type="text/javascript">
+			seajs.config({
+				base: "../../js/controllers/"
+			});
+			seajs.use('cashSweep/cashSweepSetStep1')
+		</script>
+	</body>
+</html>

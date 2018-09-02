@@ -1,0 +1,1 @@
+{"ec":"000","em":"交易成功","userName":"小军","chargeNo":"075509914104","chargeType":"000000010018010","orderFlowNo":"1P13071120004363","areaId":"02","daypayment":"3141.02","accountNo":"100000000000000000","orderState":"90","amountRealCharged":"1800.00","amountShouldBeCharged":"1752.45","orderSubmitTime":"20130711161723","requestToken":"uMrptvhOgSFykvvEoTfeHfqgOJ3tfnEp"}

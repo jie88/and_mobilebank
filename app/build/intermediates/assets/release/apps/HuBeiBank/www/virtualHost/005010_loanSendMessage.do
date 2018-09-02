@@ -1,0 +1,1 @@
+{"ec":"000","em":"接收数据成功                            ","hostErrorMessage":"接收数据成功                            ","hostReturnCode":"000","constant":"1","telephone":"13432324232","managerPhone":"15972691390","customerSex":"1","userName":"张山","amount":"123,123.00","productNames":"个人信用贷款,个人自助贷款","branchName":"湖北银行股份有限公司总行营业部","branchAddress":"湖北省武汉市武昌区中北路81号","managerName":"张三"}

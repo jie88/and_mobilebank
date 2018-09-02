@@ -1,0 +1,157 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .DS_Store
+* .idea\
+* .idea\.name
+* .idea\HuBeiBank.iml
+* .idea\compiler.xml
+* .idea\copyright\
+* .idea\copyright\profiles_settings.xml
+* .idea\encodings.xml
+* .idea\misc.xml
+* .idea\modules.xml
+* .idea\workspace.xml
+* proguard.cfg
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+gson-2.5.jar => com.google.code.gson:gson:2.5
+
+Potentially Missing Dependency:
+-------------------------------
+When we replaced the following .jar files with a Gradle dependency, we
+inferred the dependency version number from the filename. This
+specific version may not actually be available from the repository.
+If you get a build error stating that the dependency is missing, edit
+the version number to for example "+" to pick up the latest version
+instead. (This may require you to update your code if the library APIs
+have changed.)
+
+gson-2.5.jar => version 2.5 in com.google.code.gson:gson:2.5
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* assets\ => app\src\main\assets\
+* libs\alipaysdk.jar => app\libs\alipaysdk.jar
+* libs\alipaysecsdk.jar => app\libs\alipaysecsdk.jar
+* libs\alipayutdid.jar => app\libs\alipayutdid.jar
+* libs\android-support-v4-23.3.0.jar => app\libs\android-support-v4-23.3.0.jar
+* libs\aps-igexin.jar => app\libs\aps-igexin.jar
+* libs\aps.jar => app\libs\aps.jar
+* libs\armeabi\libamapv304.so => app\src\main\jniLibs\armeabi\libamapv304.so
+* libs\armeabi\libamapv304ex.so => app\src\main\jniLibs\armeabi\libamapv304ex.so
+* libs\armeabi\libBaiduMapSDK_v3_5_0_15.so => app\src\main\jniLibs\armeabi\libBaiduMapSDK_v3_5_0_15.so
+* libs\armeabi\libgetuiext.so => app\src\main\jniLibs\armeabi\libgetuiext.so
+* libs\armeabi\liblicense_jni.so => app\src\main\jniLibs\armeabi\liblicense_jni.so
+* libs\armeabi\liblocSDK6a.so => app\src\main\jniLibs\armeabi\liblocSDK6a.so
+* libs\armeabi\libmsc.so => app\src\main\jniLibs\armeabi\libmsc.so
+* libs\armeabi\libPassGuard.so => app\src\main\jniLibs\armeabi\libPassGuard.so
+* libs\armeabi\libTest7.so => app\src\main\jniLibs\armeabi\libTest7.so
+* libs\audio.jar => app\libs\audio.jar
+* libs\BaiduLBS_Android.jar => app\libs\BaiduLBS_Android.jar
+* libs\barcode.jar => app\libs\barcode.jar
+* libs\bcprov-jdk16-145.jar => app\libs\bcprov-jdk16-145.jar
+* libs\camera.jar => app\libs\camera.jar
+* libs\commons-codec-1.6.jar => app\libs\commons-codec-1.6.jar
+* libs\contacts.jar => app\libs\contacts.jar
+* libs\device.jar => app\libs\device.jar
+* libs\downloader.jar => app\libs\downloader.jar
+* libs\encryptlib.jar => app\libs\encryptlib.jar
+* libs\file.jar => app\libs\file.jar
+* libs\ftKeyInterface.jar => app\libs\ftKeyInterface.jar
+* libs\ftLoader.jar => app\libs\ftLoader.jar
+* libs\gallery.jar => app\libs\gallery.jar
+* libs\geolocation-baidu.jar => app\libs\geolocation-baidu.jar
+* libs\geolocation-system.jar => app\libs\geolocation-system.jar
+* libs\geolocation.jar => app\libs\geolocation.jar
+* libs\GetuiExt-2.0.3.jar => app\libs\GetuiExt-2.0.3.jar
+* libs\GetuiSDK2.7.0.0.jar => app\libs\GetuiSDK2.7.0.0.jar
+* libs\hubeibank.jar => app\libs\hubeibank.jar
+* libs\internal_impl-23.3.0.jar => app\libs\internal_impl-23.3.0.jar
+* libs\invocation.jar => app\libs\invocation.jar
+* libs\jg_filter_sdk_1.1.jar => app\libs\jg_filter_sdk_1.1.jar
+* libs\jpush-android-2.0.5.jar => app\libs\jpush-android-2.0.5.jar
+* libs\json_simple-1.1.jar => app\libs\json_simple-1.1.jar
+* libs\map-baidu.jar => app\libs\map-baidu.jar
+* libs\messaging.jar => app\libs\messaging.jar
+* libs\Msc.jar => app\libs\Msc.jar
+* libs\nativeObj.jar => app\libs\nativeObj.jar
+* libs\nativeui.jar => app\libs\nativeui.jar
+* libs\navigatorui.jar => app\libs\navigatorui.jar
+* libs\nineoldandroids-2.4.0.jar => app\libs\nineoldandroids-2.4.0.jar
+* libs\nopermission.jar => app\libs\nopermission.jar
+* libs\oauth-qq.jar => app\libs\oauth-qq.jar
+* libs\oauth-sina.jar => app\libs\oauth-sina.jar
+* libs\oauth-weixin.jar => app\libs\oauth-weixin.jar
+* libs\oauth.jar => app\libs\oauth.jar
+* libs\open_sdk_r5043_lite.jar => app\libs\open_sdk_r5043_lite.jar
+* libs\passguard.jar => app\libs\passguard.jar
+* libs\payment-alipay.jar => app\libs\payment-alipay.jar
+* libs\payment-weixin.jar => app\libs\payment-weixin.jar
+* libs\payment.jar => app\libs\payment.jar
+* libs\pdr.jar => app\libs\pdr.jar
+* libs\pgx.jar => app\libs\pgx.jar
+* libs\sensor.jar => app\libs\sensor.jar
+* libs\share-qq.jar => app\libs\share-qq.jar
+* libs\share-sina.jar => app\libs\share-sina.jar
+* libs\share-tencent.jar => app\libs\share-tencent.jar
+* libs\share-weixin.jar => app\libs\share-weixin.jar
+* libs\share.jar => app\libs\share.jar
+* libs\speech.jar => app\libs\speech.jar
+* libs\speech_ifly.jar => app\libs\speech_ifly.jar
+* libs\statistics-umeng.jar => app\libs\statistics-umeng.jar
+* libs\tx_weibo_sdk-httpclient-3.0.1.jar => app\libs\tx_weibo_sdk-httpclient-3.0.1.jar
+* libs\tx_weibo_sdk.jar => app\libs\tx_weibo_sdk.jar
+* libs\tx_weibo_sdk_component.jar => app\libs\tx_weibo_sdk_component.jar
+* libs\tx_wx.jar => app\libs\tx_wx.jar
+* libs\ui.jar => app\libs\ui.jar
+* libs\umeng-analytics-v5.6.1.jar => app\libs\umeng-analytics-v5.6.1.jar
+* libs\universal-image-loader-1.9.0.jar => app\libs\universal-image-loader-1.9.0.jar
+* libs\uploader.jar => app\libs\uploader.jar
+* libs\weibosdk.jar => app\libs\weibosdk.jar
+* libs\weibosdkcore.jar => app\libs\weibosdkcore.jar
+* libs\Xg_sdk_v2.42_20160111_1539.jar => app\libs\Xg_sdk_v2.42_20160111_1539.jar
+* libs\xhr.jar => app\libs\xhr.jar
+* libs\yumobile-android-common.jar => app\libs\yumobile-android-common.jar
+* libs\yumobile-android-fingerprint.jar => app\libs\yumobile-android-fingerprint.jar
+* libs\yumobile-android-frequencykey.jar => app\libs\yumobile-android-frequencykey.jar
+* libs\yumobile-android-h5plugins.jar => app\libs\yumobile-android-h5plugins.jar
+* libs\yumobile-hubiebank-log.jar => app\libs\yumobile-hubiebank-log.jar
+* libs\yumobile-hubiebank-passguard.jar => app\libs\yumobile-hubiebank-passguard.jar
+* lint.xml => app\lint.xml
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

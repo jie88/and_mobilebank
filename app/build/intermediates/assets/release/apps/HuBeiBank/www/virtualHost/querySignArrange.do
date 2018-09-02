@@ -1,0 +1,1 @@
+{"ec":"000","em":"","contract_flag":"Y","ap_account_no":"621217169300008328","min_payment_ind":"F"}

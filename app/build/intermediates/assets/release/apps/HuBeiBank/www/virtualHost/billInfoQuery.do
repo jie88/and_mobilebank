@@ -1,0 +1,1 @@
+{"ec":"000","em":"","cardNo":"6283400000000001","customerNameCN":null,"billDate":"20","mailAddr":null,"province":"湖北","city":"武汉市","areaCode":"市辖区","adress":"森林小镇","zipCode":"111111","reckType":"LT"}

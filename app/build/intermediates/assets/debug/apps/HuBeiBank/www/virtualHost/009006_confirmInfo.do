@@ -1,0 +1,1 @@
+{"ec":"000","em":"","productNo":"prod2","productName":"prod2","redemVol":"1000","finanTransferVol":"1000","payAccount":"100000000000000000"}

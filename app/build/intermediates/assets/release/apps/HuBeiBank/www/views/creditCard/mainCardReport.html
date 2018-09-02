@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>主卡挂失</title>
+		<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
+		<link href="../../css/mui.min.css" rel="stylesheet" />
+		<link rel="stylesheet" href="../../css/public.css" />
+		<link rel="stylesheet" href="../../css/style.css" />
+	</head>
+	<body>
+		<header class="mui-bar mui-bar-nav hb-header">
+		    <div class="header_wraper">
+				<a class="mui-action-back mui-icon mui-icon-left-nav mui-pull-left hb_back"></a>
+				<h1 class="mui-title hb-title">主卡挂失</h1>
+		    </div>
+		</header>
+		<div class="content_BOXall p_down66px hb_cont">
+			<div class="content_box5px" id="rmbAccount">
+				<!--<ul class="bg_h160px bg_br2px m_top10px">
+					<li>
+						<P class="color_6 m_left10px m_top14px">账号&nbsp;&nbsp;<span class="fz_16">1000&nbsp;***&nbsp;0000</span>&nbsp;&nbsp;<span class="color_9">姓名</span></P>
+						<p class="owncard_type">主卡</p>
+					</li>
+					<li class="own_money_box m_left10px">
+						<p ><span>可用额度</span><br /><span class="color_6 fz_12">币种／人民币</span></p>
+                        <p class="own_money" style="">
+                        	    <span class="color_red">¥</span>
+                        	    <span class="fz_18 color_red">60,000.00</span>
+                        </p>
+					</li>
+					<li class="own_btn_bg">
+						<div class="pub_btnbox2">
+							<a><span class="fz_12 color_9">明细</span><img src="../../img/icon10.png" /></a>
+							<a><span class="fz_12 color_9">挂失</span><img src="../../img/icon11.png" /></a>
+							<a><span class="fz_12 color_9">编辑</span><img src="../../img/icon12.png" /></a>
+							<a><span class="fz_12 color_9">删除</span><img src="../../img/icon13.png" /></a>
+						</div>
+					</li>
+				</ul>-->
+				<!--<ul class="bg_h160px bg_br2px m_top10px">
+					<li>
+						<P class="color_6 m_left10px m_top14px">账号&nbsp;&nbsp;<span class="fz_16">6258&nbsp;***&nbsp;0037</span>&nbsp;&nbsp;<span class="color_9">殷伟诚</span></P>
+						<p class="owncard_type">附属卡</p>
+					</li>
+					<li class="own_money_box m_left10px">
+						<p ><span>可用额度</span><br /><span class="color_6 fz_12">币种／人民币</span></p>
+                        <p class="own_money" style="">
+                        	    <span class="color_red">¥</span>
+                        	    <span class="fz_18 color_red">17,267.00</span>
+                        	    
+                        </p>
+					</li>
+					<li class="own_btn_bg">
+						<div class="pub_btnbox2">
+							<a name="return"><span class="fz_12 color_9">还款</span><img src="../../img/icon15_1.png" /></a>
+							<a name="bill"><span class="fz_12 color_9">未出账单</span><img src="../../img/icon14_1.png" /></a>
+							<a name="emergencyLoss" noCheck="false"><span class="fz_12 color_9">挂失</span><img src="../../img/icon11_1.png" /></a>
+							<a name="delete"><span class="fz_12 color_9">删除</span><img src="../../img/icon13_1.png" /></a>
+						</div>
+					</li>
+				</ul>-->
+				
+			</div>
+			
+		</div>
+		<div class="content_box5px m_top5px" id="showMsgDiv" hidden>
+			<div class="fail_icon1 suc_top7px"></div>
+			<p class="fz_15 text_m">未查询到可操作信用卡！</p>
+		</div>
+		
+		<script type="text/javascript" src="../../js/common/jquery-1.12.0.min.js"></script>
+		<script type="text/javascript" src="../../js/common/mui.min.js"></script>
+		<script type="text/javascript" src="../../js/core/param.js"></script>
+		<script type="text/javascript" src="../../js/common/sea.js"></script>
+		<script type="text/javascript">
+			seajs.config({
+				base: "../../js/controllers/"
+			});
+			seajs.use('creditCard/mainCardReport');
+		</script>
+	</body>
+</html>

@@ -1,0 +1,1 @@
+{"ec":"000","em":"","accountCardNo":"123456789012345678","productNo":"LC0003","productName":"紫气东来测试三期","currencyType":"01","interestBeginDate":"20130201","interestEndDate":"20130401","transAmt":"10000.00","agreementID":"W00000356","requestToken":"3zavwAOtcPSsepLTbOGamCCht7yJLqbA"}

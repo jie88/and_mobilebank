@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
+		<title>签约定期宝</title>
+		<link rel="stylesheet" href="../../css/mui.min.css" />
+		<link rel="stylesheet" href="../../css/public.css" />
+	</head>
+		<header class="mui-bar mui-bar-nav hb-header">
+		    <div class="header_wraper">
+				<a class="mui-action-back mui-icon mui-icon-left-nav mui-pull-left hb_back"></a>
+				<h1 class="mui-title hb-title">签约定期宝</h1>
+		    </div>
+		</header>
+		<div class="content_BOXall p_down66px hb_cont">
+			<div class="backbox_fo">
+			    <!--<p class="backbox_tit2">确认签约定期宝信息</p>-->
+			    <ul class="p_lr30px">
+		    	    <li>
+		    	    	<span class="detail_left">账号</span>
+		    	    	<span class="detail_right" id="accountNo"></span>
+		    	   	</li>
+		    	   	<!--<li>
+		    	    	<span class="detail_left">子账户</span>
+		    	    	<span class="detail_right" id="subAccountNo"></span>
+		    	   	</li>-->
+		    	   	<li>
+		    	    	<span class="detail_left">子户序号</span>
+		    	    	<span class="detail_right" id="subAccountSerNo"></span>
+		    	   	</li>
+		    	   	<li>
+		    	    	<span class="detail_left">币种</span>
+		    	    	<span class="detail_right" id="currencyType"></span>
+		    	    </li>
+		    	    <li>
+		    	    	<span class="detail_left">存期</span>
+		    	    	<span class="detail_right" id="savingPeriod"></span>
+		    	    </li>
+		    	    <li>
+		    	    	<span class="detail_left">金额</span>
+		    	    	<span class="detail_right" id="balance"></span>
+		    	    </li>
+		    	    <li id='increRateDiv' style="display: none;">
+		    	    	<span class="detail_left">增值收益率</span>
+		    	    	<span class="detail_right" id="increRate"></span>
+		    	    </li>
+		       	</ul>
+		  	</div>
+		  	<p class="m_top10px m_left10px">
+		    	<label><input type="checkbox" id="agreeCheck" checked/></label>
+		    	<a class="fz_12 color_b" id="dqbAgree">本人已阅读《签约定期宝协议》</a>
+		   	</p>
+		   	<div class="btn_bg_f2">
+		     	<button class="but_150px but_w" id="preBtn">上一步</button>&nbsp;&nbsp;
+				<button class="but_150px but_red" id="confirmButton">确&nbsp;&nbsp;定</button>
+		   	</div>
+		</div>	
+		<script type="text/javascript" src="../../js/common/jquery-1.12.0.min.js"></script>
+		<script type="text/javascript" src="../../js/core/param.js"></script>
+		<script type="text/javascript" src="../../js/common/mui.min.js"></script>
+		<script type="text/javascript" src="../../js/common/sea.js"></script>
+		<script>
+			seajs.config({
+				base: "../../js/controllers/"
+			});
+			seajs.use('savings/demandFixedToDqb');
+		</script>			
+	</body>
+</html>

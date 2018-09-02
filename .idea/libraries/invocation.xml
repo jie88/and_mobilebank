@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="invocation">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/invocation.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

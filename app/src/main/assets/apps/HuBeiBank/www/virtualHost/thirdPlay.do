@@ -1,0 +1,1 @@
+{"ec":"000","em":"","contract_flag":"Y","singleLimit":"50000.00","sum_amt":"1000000.00"}

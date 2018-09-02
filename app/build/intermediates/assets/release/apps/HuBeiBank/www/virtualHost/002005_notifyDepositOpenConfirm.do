@@ -1,0 +1,1 @@
+{"ec":"000","em":"","accountNo":"100000000000000000","amount":"69244.78","savingPeriod":"01","currencyType":"01","openDate":"20090918","reserveDate":null,"requestToken":"HMNg39DrFt6OLJsbKjRkQrADTB7HFSc6"}

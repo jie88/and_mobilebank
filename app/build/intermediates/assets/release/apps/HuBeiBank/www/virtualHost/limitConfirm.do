@@ -1,0 +1,1 @@
+{"ec":"000","em":"","cardNo":"6283400000000001","creditLimit":"20000.00","limitType":"02","reason":null}

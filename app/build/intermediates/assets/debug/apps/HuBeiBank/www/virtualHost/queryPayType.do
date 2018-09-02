@@ -1,0 +1,1 @@
+{"ec":"000","em":"","iUnionPayTypeList":[{"chargeType":"000000010006010"},{"chargeType":"000000010019010"},{"chargeType":"000000010007010"},{"chargeType":"000000010008010"},{"chargeType":"000000010020010"},{"chargeType":"000000010018010"}]}

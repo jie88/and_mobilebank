@@ -1,0 +1,1 @@
+{"ec":"000","em":"","IAccountLimitDetail":[{"accountNo":"123456123456123456","singleMax":"99999999.00","dayMax":"999999999.00","currencyType":"01"},{"accountNo":"223456123456123456","singleMax":"89999999.00","dayMax":"899999999.00","currencyType":"01"}]}

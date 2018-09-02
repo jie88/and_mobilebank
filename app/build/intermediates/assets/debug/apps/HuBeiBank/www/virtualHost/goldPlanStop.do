@@ -1,0 +1,1 @@
+{"EMP_SID":"FWBOHVFXFGEGGHIUHOCWDXIAIUDXCRJUBHDKDACA","mac":null,"channel":"02","responseFormat":"JSON","goldAipNo":"AIP100000531","planNo":"BP3100000993"}

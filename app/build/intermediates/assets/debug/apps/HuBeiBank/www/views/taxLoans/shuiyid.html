@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1,maximum-scale=1,user-scalable=no" />
+    </head>
+    <style type="text/css" media="screen">
+    body,ul, li,p{
+        list-style: none;
+        padding:0;
+        margin:0;
+    }
+		.fz_12{
+			font-size: 12px;
+			color: #999;
+		}
+		.color_9{
+			color:#999;
+		}
+        .liuc{
+            width: 100%;
+            height: 120px;
+            background:#fff;
+            /*padding:15px;*/
+            position:relative;
+        }
+        .topletter{
+            width:100%;
+            height:60px;
+            padding-top:15px;
+        }
+        .left{
+            width:50%;
+            float: left;
+		    margin-left: 15px;
+        }
+        .left p{
+            font-size: 12px;
+            margin:0;
+        }
+        .right{
+			font-size: 14px;
+            width: 30%;
+            float: right;
+            padding-right: 10px;
+            text-align: center;
+            margin-top: 10px;
+            background: url(img/arrow.png) top 4px right 15px no-repeat;
+            background-size: 10%;
+        }
+        .color9{
+            color:#999;
+        }
+        /*步骤图*/
+        .stepA{
+            position: relative;
+			width: 100%;
+		    height: 50px;
+			overflow: hidden;
+        }
+        .step{
+            width:100%;
+            overflow: hidden;
+            position: absolute;
+            top: 0;
+            left:0; 
+            z-index:10;   
+        }
+        .step-active{
+            width:20%;
+            text-align: center;
+            float: left;
+        }
+        .line{
+            clear:both;
+            width:80%;
+            border-bottom: 1px solid #eee;
+            position: absolute;
+            top:14px;
+            left:10%; 
+        }
+    </style>
+    <body>
+        <div class="liuc">
+            <div class="topletter">
+                <div class="left">
+                    <p>oi2018080800000005462</p>
+                    <p class="color_9">2018.08.8提交</p>
+                </div>
+                <div class="right">
+                    认证通过
+                </div>
+            </div>
+            <div class="stepA">
+                 
+                 <ul class="step">
+                    <li class="step-active">
+                        <img src="../../img/red@3x.png" width="35%" />
+                        <p class="fz_12">受理中</p>
+                    </li>
+                    <li class="step-active">
+                        <img src="../../img/red@3x.png" width="35%" />
+                        <p class="fz_12">银税认证</p>
+                    </li>
+                    <li class="step-active color9">
+                        <img src="../../img/gray@3x.png" width="35%" />
+                        <p class="fz_12">审核通过</p>
+                    </li>
+                    <li class="step-active color9">
+                        <img src="../../img/gray@3x.png" width="35%" />
+                        <p class="fz_12">已签约</p>
+                    </li>
+                    <li class="step-active color9">
+                        <img src="../../img/gray@3x.png" width="35%" />
+                        <p class="fz_12">已放款</p>
+                    </li>
+                </ul> 
+                <p  class="line"></p> 
+            </div>    
+        </div>        
+    </body>
+</html>

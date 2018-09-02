@@ -1,0 +1,1 @@
+{"ec":"000","em":"","accountNo":"621270002700472568","singleLimit":"1000000.00","dayLimit":"20000000.00","currencyType":"01","orderSubmitTime":"20140620172757"}
